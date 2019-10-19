@@ -1,0 +1,968 @@
+id,Full name,Profile url,Location,Student_Status,Education_category,Working_years,Title,Companysize,Scope,Industry,Family,Profile_similarity,Spending Power,Leasing Propensity,Overall Score (Out of 2),class
+weienthong,Wei En THONG,https://www.linkedin.com/in/weienthong/,Singapore,1,1,0.05,0.5,1,0,1,0,0.88,0.51,0.22,0.73,E
+amberpoo,"Poo Men Shuen, Amber",https://www.linkedin.com/in/amberpoo/,Singapore,1,1,0.13,0,1,1,0,1,0.43,0.23,0.66,0.89,A
+jerome-lim,Jerome Lim,https://www.linkedin.com/in/jerome-lim/,Singapore,1,1,0.13,1,1,0,1,0,0.92,0.63,0.23,0.86,S
+amanda-lim-30813254,Amanda Lim,https://www.linkedin.com/in/amanda-lim-30813254/,Singapore,1,1,0.23,0.5,1,0,1,1,0,0.55,0.25,0.8,C
+ijeremytang,Jeremy Tang,https://www.linkedin.com/in/ijeremytang/,Singapore,0,0.67,0.05,0.5,1,0,1,0,0.89,0.64,0.22,0.87,A
+zhiqikwang,ZhiQi Kwang,https://www.linkedin.com/in/zhiqikwang/,Singapore,1,0.67,0.18,0,1,0,1,1,0.82,0.37,0.46,0.82,C
+kristen-tan-1b140539,Kristen Tan,https://www.linkedin.com/in/kristen-tan-1b140539/,Singapore,1,1,0.23,0.5,1,0,0,1,0,0.55,0.25,0.8,E
+ng-swee-hong,Ng Swee Hong,https://www.linkedin.com/in/ng-swee-hong/,Singapore,0,1,0.13,1,1,0,1,0,0.9,0.83,0.23,1.05,A
+jane-c-594099160,Jane C,https://www.linkedin.com/in/jane-c-594099160/,Singapore,0,1,0.03,0.5,1,0,1,0,0.88,0.71,0.22,0.92,A
+tung-steve-huynh-0242a856,Tung Steve Huynh,https://www.linkedin.com/in/tung-steve-huynh-0242a856/,Singapore,1,1,0.13,0,0.5,0,1,0,0.92,0.33,0.23,0.56,A
+song-wanqi-7a42ba143,Song Wanqi,https://www.linkedin.com/in/song-wanqi-7a42ba143/,Singapore,1,1,0.08,0,1,0,1,0,0,0.42,0,0.42,A
+felixhoe,Felix Hoe,https://www.linkedin.com/in/felixhoe/,Singapore,1,1,0.03,0.5,1,0,1,0,0.99,0.51,0.25,0.75,C
+zheming-ding,Zheming Ding,https://www.linkedin.com/in/zheming-ding/,Singapore,0,1,0.05,0.5,1,0,1,0,0.93,0.71,0.23,0.94,S
+angela-yeoh-546a8878,Angela Yeoh,https://www.linkedin.com/in/angela-yeoh-546a8878/,Singapore,1,1,0.3,0,1,0,0,1,0.89,0.46,0.47,0.93,C
+zecherytan,Zechery Tan,https://www.linkedin.com/in/zecherytan/,Singapore,0,1,0.03,0,1,0,1,0,0.97,0.61,0.24,0.85,A
+norman-foo-36959b16a,Norman Foo,https://www.linkedin.com/in/norman-foo-36959b16a/,Singapore,0,1,0.1,0,1,0,1,0,0.88,0.62,0.22,0.84,A
+jielin-ng-68284636,Jielin Ng,https://www.linkedin.com/in/jielin-ng-68284636/,Singapore,0,0.67,0.35,0.5,1,0,1,1,0.96,0.7,0.49,1.19,E
+takeuchi-yasushi-001989145,Takeuchi Yasushi,https://www.linkedin.com/in/takeuchi-yasushi-001989145/,Singapore,1,1,0.15,0.5,1,0,1,0,0,0.53,0,0.53,C
+avriltan,Avril Tan,https://www.linkedin.com/in/avriltan/,Singapore,1,0.67,0.13,1,1,0,1,0,0.99,0.56,0.25,0.8,E
+minqi-lee-034831143,Minqi Lee,https://www.linkedin.com/in/minqi-lee-034831143/,Singapore,1,1,0.15,1,1,0,1,0,0.95,0.63,0.24,0.87,E
+hairulyusri,Hairul Yusri,https://www.linkedin.com/in/hairulyusri/,Singapore,0,1,0.13,0,1,0,1,0,0.9,0.63,0.22,0.85,A
+shirley-lee-13ab3719,Shirley Lee,https://www.linkedin.com/in/shirley-lee-13ab3719/,Singapore,1,1,0.2,1,1,0,0,1,0.91,0.64,0.48,1.12,E
+derick-wong-391442172,Derick Wong,https://www.linkedin.com/in/derick-wong-391442172/,Singapore,0,1,0.18,0.5,1,0,1,1,0.9,0.74,0.48,1.21,E
+suppiah-k-860815b7,Suppiah K.,https://www.linkedin.com/in/suppiah-k-860815b7/,Singapore,1,0.67,0.13,0.5,1,0,1,0,0.92,0.46,0.23,0.69,A
+christophertan-aia,Christopher Tan,https://www.linkedin.com/in/christophertan-aia/,Singapore,1,0.33,0.6,1,1,0,1,1,0.87,0.59,0.47,1.05,E
+ho-jian-xiong-b2b360153,Ho Jian Xiong,https://www.linkedin.com/in/ho-jian-xiong-b2b360153/,Singapore,0,1,0.1,0.5,1,0,1,0,0.91,0.72,0.23,0.95,E
+john-chua-chfc-clu-b5ab9a,"John Chua ChFC, CLU",https://www.linkedin.com/in/john-chua-chfc-clu-b5ab9a/,Singapore,1,0.67,0.88,1,0,0,1,1,0.9,0.51,0.47,0.98,C
+casper-daniel-peck-86b558152,Casper Daniel Peck,https://www.linkedin.com/in/casper-daniel-peck-86b558152/,Singapore,1,0.67,0.1,0,1,0,1,0,0.93,0.35,0.23,0.58,A
+hensa,Hensa Nanthakumar,https://www.linkedin.com/in/hensa/,Singapore,1,0.67,0.28,0.5,1,0,1,1,0.88,0.49,0.47,0.96,C
+jackie-wee-2bb31650,Jackie Wee,https://www.linkedin.com/in/jackie-wee-2bb31650/,Singapore,1,1,0.98,0,1,0,1,1,0.92,0.6,0.48,1.08,S
+jae-loh-28982415,Jae Loh,https://www.linkedin.com/in/jae-loh-28982415/,Singapore,1,1,0.3,0.5,1,0,1,1,0.63,0.56,0.41,0.97,C
+joseph-lee-812582119,Joseph Lee,https://www.linkedin.com/in/joseph-lee-812582119/,Singapore,0,1,0.1,0,1,0,1,0,0.84,0.62,0.21,0.83,E
+janilyn-g-1b435b112,Janilyn G.,https://www.linkedin.com/in/janilyn-g-1b435b112/,Singapore,0,0.67,0,0.5,1,0,1,0,0.99,0.63,0.25,0.88,E
+lester-young-825075170,Lester Young,https://www.linkedin.com/in/lester-young-825075170/,Singapore,1,1,0.03,1,1,0,1,0,0.91,0.61,0.23,0.83,E
+tze-hern-yeo-0177a1138,Tze Hern Yeo,https://www.linkedin.com/in/tze-hern-yeo-0177a1138/,Singapore,0,0.67,0.1,0.5,1,0,1,0,0.88,0.65,0.22,0.87,E
+tanhuimin,Tan Huimin,https://www.linkedin.com/in/tanhuimin/,Singapore,1,1,0.33,0,1,0,1,1,0.9,0.47,0.47,0.94,C
+norman-w-b25296152,Norman W.,https://www.linkedin.com/in/norman-w-b25296152/,Singapore,0,1,0.13,0,1,0,1,0,0.89,0.63,0.22,0.85,E
+sherontan,Sheron Tan,https://www.linkedin.com/in/sherontan/,Singapore,1,1,0.23,0.5,1,0,1,1,0.88,0.55,0.47,1.01,E
+kelvin-akw,Ang Kia Wee (Kelvin),https://www.linkedin.com/in/kelvin-akw/,Singapore,1,1,0.23,0.5,1,0,1,1,0.92,0.55,0.48,1.03,E
+kai-tan-799a71171,Kai Tan,https://www.linkedin.com/in/kai-tan-799a71171/,Singapore,1,0.67,0.25,1,1,0,1,1,0.91,0.58,0.48,1.06,E
+shuang-wang-663798182,Shuang Wang,https://www.linkedin.com/in/shuang-wang-663798182/,Singapore,1,0,0.38,1,1,0,1,1,0,0.48,0.25,0.73,C
+kane-han-67384583,Kane Han,https://www.linkedin.com/in/kane-han-67384583/,Singapore,1,1,0.15,0,1,0,0,0,0.9,0.43,0.23,0.66,C
+vernice-zhang-7040a3aa,Vernice Zhang,https://www.linkedin.com/in/vernice-zhang-7040a3aa/,Singapore,1,0.33,0.05,1,1,0,1,0,0,0.48,0,0.48,A
+sophia-zhang-3888a3131,Sophia Zhang,https://www.linkedin.com/in/sophia-zhang-3888a3131/,Singapore,1,1,0.08,0.5,1,0,1,0,0.9,0.52,0.23,0.74,A
+hui-wen-oh-98a95b102,Hui Wen Oh,https://www.linkedin.com/in/hui-wen-oh-98a95b102/,Singapore,0,1,0.13,0.5,0,0,1,0,0.91,0.53,0.23,0.75,E
+fadedtaste,Frank GU,https://www.linkedin.com/in/fadedtaste/,Singapore,1,1,0.13,1,0,0,1,0,0.86,0.43,0.21,0.64,C
+gordon-chan-8714b332,Gordon Chan,https://www.linkedin.com/in/gordon-chan-8714b332/,Singapore,1,1,0.35,0.5,1,0,1,1,0,0.57,0.25,0.82,C
+jessica-teo-42395a130,Jessica Teo,https://www.linkedin.com/in/jessica-teo-42395a130/,Singapore,1,1,0.2,0,1,0,0,1,0,0.44,0.25,0.69,E
+chaiwee-low-55644269,ChaiWee Low,https://www.linkedin.com/in/chaiwee-low-55644269/,Singapore,1,1,0.18,0.5,1,0,1,1,0,0.54,0.25,0.79,C
+lew-ming-lee-79545527,Lew Ming Lee,https://www.linkedin.com/in/lew-ming-lee-79545527/,Singapore,1,1,0.25,0,1,0,1,1,0,0.45,0.25,0.7,C
+jackie-ng-mei-hwee-b042bb68,Jackie Ng Mei Hwee,https://www.linkedin.com/in/jackie-ng-mei-hwee-b042bb68/,Singapore,1,0.67,0.2,0.5,0,0,1,1,0.91,0.27,0.48,0.75,C
+jackizhu,Jingtao (Jacki) Zhu,https://www.linkedin.com/in/jackizhu/,Singapore,1,1,0.13,0,0,0,1,0,0,0.23,0,0.23,A
+j9protectsgenerations,Jeannine Foo - Heirloom Guardian,https://www.linkedin.com/in/j9protectsgenerations/,Singapore,1,1,0.13,1,1,0,1,0,0.87,0.63,0.22,0.84,E
+leslie-chua-4b047a137,Leslie Chua,https://www.linkedin.com/in/leslie-chua-4b047a137/,Singapore,0,0.33,0.55,0,1,0,1,1,0.89,0.58,0.47,1.05,E
+chloeanglt,Chloe Ang,https://www.linkedin.com/in/chloeanglt/,Singapore,0,1,0.15,0,0.5,0,1,0,0.97,0.53,0.24,0.77,A
+andy-chua-65a20595,andy Chua,https://www.linkedin.com/in/andy-chua-65a20595/,Singapore,0,0.33,0.2,0.5,1,0,1,1,0,0.61,0.25,0.86,C
+weijie-yin-553bbbb0,Weijie Yin,https://www.linkedin.com/in/weijie-yin-553bbbb0/,Singapore,1,1,0.18,0,1,0,1,1,0.87,0.44,0.47,0.9,E
+samantha-teresa-364961141,Samantha Teresa,https://www.linkedin.com/in/samantha-teresa-364961141/,Singapore,0,1,0.03,0.5,0,0,0,0,0,0.51,0,0.51,E
+chee-allen-b12a7144,Chee Allen,https://www.linkedin.com/in/chee-allen-b12a7144/,Singapore,1,0.33,0.58,1,1,0,1,1,0,0.58,0.25,0.83,C
+caelasim,Caela Sim,https://www.linkedin.com/in/caelasim/,Singapore,1,1,0.08,0.5,0.5,0,1,0,0.9,0.42,0.22,0.64,C
+malcom-teo-a62669170,Malcom Teo,https://www.linkedin.com/in/malcom-teo-a62669170/,Singapore,0,1,0.13,0.5,1,0,1,0,0,0.73,0,0.73,A
+zhixian-teo-72643273,Zhixian Teo,https://www.linkedin.com/in/zhixian-teo-72643273/,Singapore,1,1,0.15,1,1,0,1,0,0.9,0.63,0.22,0.85,A
+bernard-lim-20322972,Bernard Lim,https://www.linkedin.com/in/bernard-lim-20322972/,Singapore,1,0,0.5,1,0.5,0,1,1,0.9,0.4,0.47,0.87,C
+darren-koh-2016,"Darren Koh, AEPP, FMVA",https://www.linkedin.com/in/darren-koh-2016/,Singapore,0,1,0.03,0.5,1,0,1,0,0.99,0.71,0.25,0.95,E
+khairul-anwar-abdul-kepli-46985a71,Khairul Anwar Abdul Kepli,https://www.linkedin.com/in/khairul-anwar-abdul-kepli-46985a71/,Singapore,1,0.67,0.18,0,1,0,1,1,0.94,0.37,0.48,0.85,C
+darius-loo-93b20311b,Darius Loo,https://www.linkedin.com/in/darius-loo-93b20311b/,Singapore,1,0.67,0.1,0.5,1,0,1,0,0.95,0.45,0.24,0.69,C
+willson-tan-2b62a413,Willson Tan,https://www.linkedin.com/in/willson-tan-2b62a413/,Singapore,1,0.67,0.15,0,1,0,1,0,0.86,0.36,0.21,0.58,E
+balvinderchawla,Balvinder Chawla,https://www.linkedin.com/in/balvinderchawla/,Singapore,1,1,0.15,0.5,0.5,0,1,0,0.96,0.43,0.24,0.67,C
+spjakeyu,Jake Yu AIA,https://www.linkedin.com/in/spjakeyu/,Singapore,0,1,0.78,1,1,0,1,1,0.86,0.96,0.46,1.42,S
+clorineteo,Clorine Teo   - Estate Planner,https://www.linkedin.com/in/clorineteo/,Singapore,0,1,0.2,0.5,1,0,1,1,0.89,0.74,0.47,1.21,E
+michelle-qiu-09702897,Michelle Qiu,https://www.linkedin.com/in/michelle-qiu-09702897/,Singapore,1,1,0.15,0,1,0,1,0,0,0.43,0,0.43,A
+long-jìdá-龙纪达-01908261,Long Jìdá 龙纪达,https://www.linkedin.com/in/long-jìdá-龙纪达-01908261/,Singapore,1,0.67,0.15,0,1,0,1,0,0,0.36,0,0.36,A
+glenn-heah,Glenn Heah,https://www.linkedin.com/in/glenn-heah/,Singapore,1,1,0.08,0,1,0,1,0,0.91,0.42,0.23,0.64,C
+chenghao-shi-35b022182,Chenghao shi,https://www.linkedin.com/in/chenghao-shi-35b022182/,Singapore,1,0.67,0.1,0,1,0,1,0,0.87,0.35,0.22,0.57,C
+reuben-lee,Reuben Lee,https://www.linkedin.com/in/reuben-lee/,Singapore,1,1,0.1,1,0.5,0,1,0,0.88,0.52,0.22,0.74,A
+sim-willing-a14625113,Sim Willing,https://www.linkedin.com/in/sim-willing-a14625113/,Singapore,1,0,1,1,1,0,1,1,0.88,0.6,0.47,1.07,C
+zareen-angullia-8a1a6338,Zareen Angullia,https://www.linkedin.com/in/zareen-angullia-8a1a6338/,Singapore,1,0.67,0.25,1,1,0,1,1,0.92,0.58,0.48,1.06,C
+huei-leeng-june-teoh-b3703154,Huei Leeng June Teoh,https://www.linkedin.com/in/huei-leeng-june-teoh-b3703154/,Singapore,1,0,0,1,0,0,1,0,0.8,0.2,0.2,0.4,A
+yoan-jenneth-0a959526,Yoan Jenneth,https://www.linkedin.com/in/yoan-jenneth-0a959526/,Singapore,1,1,0.33,0,0,0,1,1,0,0.27,0.25,0.52,C
+lim-tian-sin-a9ab116b,Lim Tian Sin,https://www.linkedin.com/in/lim-tian-sin-a9ab116b/,Singapore,0,1,0.1,0,1,0,1,0,0.89,0.62,0.22,0.84,E
+joon-hoong-soh-b4697316b,Joon Hoong Soh,https://www.linkedin.com/in/joon-hoong-soh-b4697316b/,Singapore,0,1,0.15,0.5,1,0,1,0,0.91,0.73,0.23,0.96,E
+chan-edwin-5a8a2b49,Chan Edwin,https://www.linkedin.com/in/chan-edwin-5a8a2b49/,Singapore,1,0,0.25,1,0.5,0,1,1,0,0.35,0.25,0.6,C
+ericcwz,Eric Chan,https://www.linkedin.com/in/ericcwz/,Singapore,0,1,0.1,0,1,0,1,0,0.9,0.62,0.22,0.84,S
+long-bryan-aa9abb31,long bryan,https://www.linkedin.com/in/long-bryan-aa9abb31/,Singapore,1,1,0.2,1,0.5,0,1,1,0,0.54,0.25,0.79,E
+loke-jun-wei-0bb227172,loke jun wei,https://www.linkedin.com/in/loke-jun-wei-0bb227172/,Singapore,0,1,0.05,0,1,0,1,0,0.83,0.61,0.21,0.82,E
+brandonchoo,Brandon Choo,https://www.linkedin.com/in/brandonchoo/,Singapore,0,1,0.18,0,1,0,1,1,0.78,0.64,0.44,1.08,C
+jace-tan-86331299,Jace Tan,https://www.linkedin.com/in/jace-tan-86331299/,Singapore,1,1,0.18,0,1,0,1,1,0.92,0.44,0.48,0.91,C
+rachel-lau-xiu-hui,Rachel Lau Xiu Hui,https://www.linkedin.com/in/rachel-lau-xiu-hui/,Singapore,1,1,0.1,0,1,0,1,0,0.89,0.42,0.22,0.64,A
+lin-peihua-a4b81b57,Lin Peihua,https://www.linkedin.com/in/lin-peihua-a4b81b57/,Singapore,1,1,0.25,0,1,0,1,1,0.85,0.45,0.46,0.91,C
+joel-augustine-tan-65995b60,Joel Augustine Tan,https://www.linkedin.com/in/joel-augustine-tan-65995b60/,Singapore,1,0,0.15,1,1,0,1,0,0,0.43,0,0.43,C
+benjamin-choo-8a2221115,Benjamin Choo,https://www.linkedin.com/in/benjamin-choo-8a2221115/,Singapore,1,0.67,0.15,1,0.5,0,1,0,0,0.46,0,0.46,C
+goh-chai-xien-113b5a170,Goh Chai Xien,https://www.linkedin.com/in/goh-chai-xien-113b5a170/,Singapore,1,1,0.13,0,1,0,1,0,0,0.43,0,0.43,A
+james-wee-055a7b103,James Wee,https://www.linkedin.com/in/james-wee-055a7b103/,Singapore,1,0.67,0.2,0,1,0,1,1,0.92,0.37,0.48,0.85,C
+jonastayky,Jonas Tay,https://www.linkedin.com/in/jonastayky/,Singapore,1,1,0.25,0,1,0,1,1,0.89,0.45,0.47,0.92,C
+samantha-low-304ab6a0,Samantha Low,https://www.linkedin.com/in/samantha-low-304ab6a0/,Singapore,1,1,0.13,0.5,1,0,0,0,0.9,0.53,0.23,0.75,E
+nicholas-lim-20564777,Nicholas Lim,https://www.linkedin.com/in/nicholas-lim-20564777/,Singapore,1,0.67,0.25,1,1,0,1,1,0.9,0.58,0.48,1.06,E
+yapjinhong,Yap Jin Hong,https://www.linkedin.com/in/yapjinhong/,Singapore,0,1,0.1,0,1,0,0,0,0.92,0.62,0.23,0.85,C
+averie-you-319253ba,Averie You,https://www.linkedin.com/in/averie-you-319253ba/,Singapore,0,1,0.1,0.5,1,0,1,0,0.88,0.72,0.22,0.94,A
+gracefooxinhui,Grace Foo,https://www.linkedin.com/in/gracefooxinhui/,Singapore,1,1,0.1,1,1,0,1,0,0.89,0.62,0.22,0.84,C
+yeejoey,Joey Yee,https://www.linkedin.com/in/yeejoey/,Singapore,1,1,0.1,0,1,0,1,0,0.88,0.42,0.22,0.64,C
+limvanessa,Vanessa Lim,https://www.linkedin.com/in/limvanessa/,Singapore,1,0,0,0,1,0,1,0,0.88,0.2,0.22,0.42,A
+jimmy-liao-hung-37114739,Jimmy Liao Hung,https://www.linkedin.com/in/jimmy-liao-hung-37114739/,Singapore,1,1,0.23,0,0,0,1,1,0,0.25,0.25,0.5,C
+koh-rui-liang-34242ab1,KOH RUI LIANG,https://www.linkedin.com/in/koh-rui-liang-34242ab1/,Singapore,1,0.67,0.08,0.5,1,0,1,0,0,0.45,0,0.45,E
+kai-en-tham,Kai En Tham,https://www.linkedin.com/in/kai-en-tham/,Singapore,1,1,0.08,1,1,0,0,0,0,0.62,0,0.62,C
+janice-lin-a8a844118,Janice Lin,https://www.linkedin.com/in/janice-lin-a8a844118/,Singapore,1,1,0.15,0,1,0,1,0,0,0.43,0,0.43,C
+jerrick-ong-ca-cbci-3a2a2959,"Jerrick Ong (CA, CBCI)",https://www.linkedin.com/in/jerrick-ong-ca-cbci-3a2a2959/,Singapore,1,1,0.23,0.5,1,0,1,1,0.89,0.55,0.47,1.02,C
+xinningma,Xinning Ma,https://www.linkedin.com/in/xinningma/,Singapore,1,1,0.1,0,1,0,1,0,0.95,0.42,0.24,0.66,A
+mrevantan,Evan Tan,https://www.linkedin.com/in/mrevantan/,Singapore,0,1,0.13,0,1,0,1,0,0.9,0.63,0.23,0.85,C
+zosi-toh,Zosi Toh,https://www.linkedin.com/in/zosi-toh/,Singapore,0,1,0.13,0,1,0,1,0,0.88,0.63,0.22,0.85,E
+aloysiusoong,Aloysius Soong,https://www.linkedin.com/in/aloysiusoong/,Singapore,1,1,0.1,0,1,0,0,0,0,0.42,0,0.42,A
+hazelsam,Hazel S.,https://www.linkedin.com/in/hazelsam/,Singapore,1,1,0.25,0.5,1,0,0,1,0.9,0.55,0.47,1.02,C
+nantha-kumar-47805b38,Nantha Kumar,https://www.linkedin.com/in/nantha-kumar-47805b38/,Singapore,1,1,0.28,0,1,0,1,1,0.88,0.46,0.47,0.93,C
+colin-ong-chfc-clu-708356168,"Colin Ong  ChFC, CLU",https://www.linkedin.com/in/colin-ong-chfc-clu-708356168/,Singapore,1,1,0.03,1,0.5,0,1,0,0.89,0.51,0.22,0.73,E
+xavierlingsz,Xavier Ling,https://www.linkedin.com/in/xavierlingsz/,Singapore,0,1,0.05,0.5,0,0,0,0,0.88,0.51,0.22,0.73,E
+clarise-ong-7b5334121,Clarise Ong,https://www.linkedin.com/in/clarise-ong-7b5334121/,Singapore,1,0.67,0.1,0,1,0,1,0,0,0.35,0,0.35,A
+edalene-low-xin-yi,Edalene Low,https://www.linkedin.com/in/edalene-low-xin-yi/,Singapore,1,1,0.13,0,1,0,0,0,0.87,0.43,0.22,0.64,C
+bowen-neo-8211b032,bowen neo,https://www.linkedin.com/in/bowen-neo-8211b032/,Singapore,1,1,0.2,0.5,1,0,1,1,0.89,0.54,0.47,1.01,S
+jin-hong-tan-886217105,Jin Hong Tan,https://www.linkedin.com/in/jin-hong-tan-886217105/,Singapore,1,1,0.28,0,1,0,1,1,0.93,0.46,0.48,0.94,C
+shiqi-chua-08823580,ShiQi Chua,https://www.linkedin.com/in/shiqi-chua-08823580/,Singapore,1,1,0.18,1,1,0,1,1,0,0.64,0.25,0.89,E
+jacob-loh-778475139,Jacob Loh,https://www.linkedin.com/in/jacob-loh-778475139/,Singapore,1,1,0.15,1,0,0,1,0,0.88,0.43,0.22,0.65,E
+li-wang-b30a32105,Li Wang,https://www.linkedin.com/in/li-wang-b30a32105/,Singapore,1,1,0.08,0,0.5,0,1,0,0.93,0.32,0.23,0.55,A
+sendra-ng,Sendra Ng,https://www.linkedin.com/in/sendra-ng/,Singapore,0,1,0.08,0.5,1,0,1,0,0.92,0.72,0.23,0.95,E
+clarissa-eu-,Clarissa Eu,https://www.linkedin.com/in/clarissa-eu-/,Singapore,0,1,0.08,0,0,0,1,0,0,0.42,0,0.42,C
+gabriel-20j94,Gabriel Lim,https://www.linkedin.com/in/gabriel-20j94/,Singapore,0,1,0.15,0,0.5,0,1,0,0.89,0.53,0.22,0.75,A
+jenny-yan-ni-84a1b6144,Jenny YAN Ni,https://www.linkedin.com/in/jenny-yan-ni-84a1b6144/,Singapore,0,1,0.03,0.5,0,0,1,0,0.82,0.51,0.21,0.71,E
+haotian-gao-bb6819153,Haotian Gao,https://www.linkedin.com/in/haotian-gao-bb6819153/,Singapore,0,1,0.08,0.5,1,0,1,0,0,0.72,0,0.72,A
+jee-yean-yew-298102147,Jee Yean Yew,https://www.linkedin.com/in/jee-yean-yew-298102147/,Singapore,0,1,0.05,0,1,0,1,0,0.9,0.61,0.23,0.84,S
+clifton-hoong-4496a0170,Clifton Hoong,https://www.linkedin.com/in/clifton-hoong-4496a0170/,Singapore,0,1,0,0.5,0,0,1,0,0.88,0.5,0.22,0.72,C
+tayshuweibeatrice,Beatrice Tay,https://www.linkedin.com/in/tayshuweibeatrice/,Singapore,0,1,0,0.5,0,0,1,0,0.92,0.5,0.23,0.73,A
+leehsiuee,Reuben Lee Hsiu Ee,https://www.linkedin.com/in/leehsiuee/,Singapore,1,1,0.05,0,1,0,1,0,0,0.41,0,0.41,A
+cleavechingwq,Cleave Ching,https://www.linkedin.com/in/cleavechingwq/,Singapore,0,1,0.15,0.5,1,0,1,0,0.99,0.73,0.25,0.98,C
+xiemeishi,Xie Meishi,https://www.linkedin.com/in/xiemeishi/,Singapore,1,1,0.33,0.5,0,0,1,1,0.93,0.37,0.48,0.85,C
+junhao-you-035812121,Junhao You,https://www.linkedin.com/in/junhao-you-035812121/,Singapore,1,1,0.15,0.5,1,0,1,0,0.89,0.53,0.22,0.75,S
+bryan-chua-69b86717a,Bryan Chua,https://www.linkedin.com/in/bryan-chua-69b86717a/,Singapore,1,1,0.13,0.5,1,0,1,0,0.97,0.53,0.24,0.77,E
+philipdampal,Philip Alvan Day-yo Dampal,https://www.linkedin.com/in/philipdampal/,Singapore,1,1,0.25,0,1,0,1,1,0.88,0.45,0.47,0.92,C
+aaronjayfrancis,Aaron Jay Francis,https://www.linkedin.com/in/aaronjayfrancis/,Singapore,1,1,0.03,0.5,1,0,0,0,0.96,0.51,0.24,0.74,A
+keith-onn-6aab4317b,Keith Onn,https://www.linkedin.com/in/keith-onn-6aab4317b/,Singapore,1,0.67,0.03,0.5,1,0,1,0,0,0.44,0,0.44,E
+gerald-tan-32142015b,Gerald Tan,https://www.linkedin.com/in/gerald-tan-32142015b/,Singapore,0,1,0.1,0,1,0,1,0,0.99,0.62,0.25,0.87,E
+delphine-liyuwardi-tan-98302946,Delphine Liyuwardi Tan,https://www.linkedin.com/in/delphine-liyuwardi-tan-98302946/,Singapore,1,1,0.63,1,1,0,1,1,0.95,0.73,0.49,1.21,C
+marcus-khoo-08b0865b,Marcus Khoo,https://www.linkedin.com/in/marcus-khoo-08b0865b/,Singapore,1,1,0.1,0,1,0,1,0,0.9,0.42,0.22,0.64,C
+xavier-wong-246240164,Xavier Wong,https://www.linkedin.com/in/xavier-wong-246240164/,Singapore,1,0.67,0.1,0,0,0,1,0,0.91,0.15,0.23,0.38,A
+cynthia-tay-6aa276188,Cynthia Tay,https://www.linkedin.com/in/cynthia-tay-6aa276188/,Singapore,1,0.67,0.13,0.5,1,0,1,0,0.9,0.46,0.23,0.68,C
+taykahlok,✪ Tay Kah Lok ✪ 戴嘉樂 AFP®,https://www.linkedin.com/in/taykahlok/,Singapore,1,1,0.18,0,0.5,0,1,1,0.92,0.34,0.48,0.81,C
+david-neo-9035369a,David Neo,https://www.linkedin.com/in/david-neo-9035369a/,Singapore,1,0.33,0.15,0.5,0,0,1,0,0.87,0.2,0.22,0.41,A
+liu-bowen-61a85714b,Liu Bowen,https://www.linkedin.com/in/liu-bowen-61a85714b/,Singapore,0,1,0.08,1,1,0,1,0,0.91,0.82,0.23,1.04,AMG GT
+annabellegmy,Annabelle Guan GMY,https://www.linkedin.com/in/annabellegmy/,Singapore,1,1,0.43,0,1,0,1,1,0.9,0.49,0.47,0.96,C
+arun-p-48a324147,Arun P.,https://www.linkedin.com/in/arun-p-48a324147/,Singapore,1,0.67,0.3,0.5,1,0,1,1,0.93,0.49,0.48,0.97,E
+see-seng-yang,See Seng Yang,https://www.linkedin.com/in/see-seng-yang/,Singapore,0,1,0.13,1,1,0,0,0,0.88,0.83,0.22,1.05,A
+lester-lim-773244119,Lester Lim,https://www.linkedin.com/in/lester-lim-773244119/,Singapore,1,1,0.1,0.5,1,0,1,0,0.92,0.52,0.23,0.75,E
+jennifer-wong-kee-heng-60bb8712a,Jennifer Wong Kee Heng,https://www.linkedin.com/in/jennifer-wong-kee-heng-60bb8712a/,Singapore,1,0,0,1,1,0,1,0,0.63,0.4,0.16,0.56,C
+benjamin-ng-502ba1116,Benjamin Ng,https://www.linkedin.com/in/benjamin-ng-502ba1116/,Singapore,1,1,0.15,1,0,0,0,0,0.84,0.43,0.21,0.64,C
+ruichun-zhang-ba4032179,Ruichun Zhang,https://www.linkedin.com/in/ruichun-zhang-ba4032179/,Singapore,0,1,0.03,0.5,1,0,1,0,0.99,0.71,0.25,0.95,E
+tang-ser-wei-980021b8,Tang Ser Wei,https://www.linkedin.com/in/tang-ser-wei-980021b8/,Singapore,0,1,0.08,0.5,1,0,1,0,0.91,0.72,0.23,0.94,A
+kurt-ng-57052593,Kurt Ng,https://www.linkedin.com/in/kurt-ng-57052593/,Singapore,1,0,0.35,1,1,0,1,1,0.88,0.47,0.47,0.94,C
+dunros-ee-925a6b44,Dunros Ee,https://www.linkedin.com/in/dunros-ee-925a6b44/,Singapore,0,1,0.2,0.5,1,0,1,1,0.9,0.74,0.47,1.21,C
+cassandra-chan-852180154,Cassandra Chan,https://www.linkedin.com/in/cassandra-chan-852180154/,Singapore,1,1,0.18,1,1,0,1,1,0.89,0.64,0.47,1.11,C
+may-hao-tan-b9662182,May Hao Tan,https://www.linkedin.com/in/may-hao-tan-b9662182/,Singapore,1,0.67,0.25,1,1,0,1,1,0.88,0.58,0.47,1.05,E
+andrew-yong-526490b7,Andrew Yong,https://www.linkedin.com/in/andrew-yong-526490b7/,Singapore,1,1,0.1,0.5,1,0,1,0,0.92,0.52,0.23,0.75,A
+yapliyinglegacyoptimizer,Li Ying Yap - Legacy Optimizer,https://www.linkedin.com/in/yapliyinglegacyoptimizer/,Singapore,0,1,0.2,0.5,1,0,1,1,0.91,0.74,0.48,1.22,C
+caleb-heah-beng-keat-28721143,Caleb Heah Beng Keat,https://www.linkedin.com/in/caleb-heah-beng-keat-28721143/,Singapore,1,0.67,0.1,0.5,1,0,1,0,0,0.45,0,0.45,C
+alvin-seah-afc®-02141610a,"Alvin Seah, AFC®",https://www.linkedin.com/in/alvin-seah-afc®-02141610a/,Singapore,1,1,0.33,0,1,0,1,1,0.9,0.47,0.48,0.94,C
+rachelswh,Rachel Seah,https://www.linkedin.com/in/rachelswh/,Singapore,0,0.67,0.05,0.5,1,0,0,0,0,0.64,0,0.64,C
+yuan-shyuan-hoo-32645195,Yuan Shyuan Hoo,https://www.linkedin.com/in/yuan-shyuan-hoo-32645195/,Singapore,1,1,0.13,1,1,0,1,0,0.9,0.63,0.23,0.85,A
+anirudh-dalmia,Anirudh Dalmia,https://www.linkedin.com/in/anirudh-dalmia/,Singapore,1,1,0.05,1,0,0,1,0,0.91,0.41,0.23,0.64,A
+raymond-leong-76103366,Raymond Leong,https://www.linkedin.com/in/raymond-leong-76103366/,Singapore,1,1,0.78,0.5,0,0,1,1,0.86,0.46,0.46,0.92,C
+leon-tay-629ab4159,Leon Tay,https://www.linkedin.com/in/leon-tay-629ab4159/,Singapore,1,0,0.05,0.5,1,0,1,0,0,0.31,0,0.31,E
+caleb-yang-14786137,Caleb Yang,https://www.linkedin.com/in/caleb-yang-14786137/,Singapore,1,1,0,0.5,1,0,0,0,0,0.5,0,0.5,E
+alanjjchang,Alan JJ Chang,https://www.linkedin.com/in/alanjjchang/,Singapore,1,1,0.08,1,1,0,1,0,0,0.62,0,0.62,S
+xiuling-yang-87356988,xiuling yang,https://www.linkedin.com/in/xiuling-yang-87356988/,Singapore,1,0.33,0.18,0.5,1,0,1,1,0,0.4,0.25,0.65,C
+noel-ngo-📈-b56891179,Noel Ngo 📈,https://www.linkedin.com/in/noel-ngo-📈-b56891179/,Singapore,1,0.67,0.15,0.5,1,0,1,0,0.91,0.46,0.23,0.69,C
+mandy-phuah-a87ab8a8,Mandy Phuah,https://www.linkedin.com/in/mandy-phuah-a87ab8a8/,Singapore,1,1,0.38,0.5,0,0,1,1,0,0.38,0.25,0.63,C
+desmond-gin-4a83a324,Desmond Gin,https://www.linkedin.com/in/desmond-gin-4a83a324/,Singapore,1,1,0.23,0,1,0,1,1,0.87,0.45,0.47,0.91,C
+eugene-ting-45bab7157,Eugene Ting,https://www.linkedin.com/in/eugene-ting-45bab7157/,Singapore,1,0,0.05,0.5,1,0,1,0,0.89,0.31,0.22,0.53,A
+jocelynngsh,Jocelyn Ng,https://www.linkedin.com/in/jocelynngsh/,Singapore,0,0.67,0.4,0.5,1,0,1,1,0.97,0.71,0.49,1.21,C
+alex-see-878a3492,Alex See,https://www.linkedin.com/in/alex-see-878a3492/,Singapore,0,0.67,0.55,0.5,0,0,1,1,0,0.54,0.25,0.79,C
+jit-wei-koh,Jit Wei Koh,https://www.linkedin.com/in/jit-wei-koh/,Singapore,1,1,0.13,0,1,0,1,0,0.87,0.43,0.22,0.64,A
+benjamin-axa-director,Benjamin Tan - Financial Services Director,https://www.linkedin.com/in/benjamin-axa-director/,Singapore,1,0.67,0.3,0.5,1,0,1,1,0,0.49,0.25,0.74,C
+amandakeyf,Amanda Ong,https://www.linkedin.com/in/amandakeyf/,Singapore,1,1,0.15,0.5,0.5,0,1,0,0,0.43,0,0.43,C
+twledmund,Edmund Tay,https://www.linkedin.com/in/twledmund/,Singapore,1,1,0.23,0,1,0,1,1,0.9,0.45,0.47,0.92,C
+samuelhanjt,✌🏻Samuel Han,https://www.linkedin.com/in/samuelhanjt/,Singapore,0,1,0.08,1,0,0,1,0,0,0.62,0,0.62,C
+adafoo,Ada Foo,https://www.linkedin.com/in/adafoo/,Singapore,1,1,0.18,1,1,0,0,1,0.9,0.64,0.47,1.11,C
+kyra-chua-jia-qi,Chua Jia Qi,https://www.linkedin.com/in/kyra-chua-jia-qi/,Singapore,1,1,0.08,0.5,1,0,1,0,0.9,0.52,0.22,0.74,A
+gigitan03,Gigi Tan,https://www.linkedin.com/in/gigitan03/,Singapore,0,1,0.08,0.5,1,0,1,0,0.99,0.72,0.25,0.96,S
+chang-min-911830159,Chang Min,https://www.linkedin.com/in/chang-min-911830159/,Singapore,0,1,0.03,0.5,0,0,1,0,0.94,0.51,0.23,0.74,S
+jermainetanwensi,Jermaine (Wen Si) Tan,https://www.linkedin.com/in/jermainetanwensi/,Singapore,1,1,0.08,0,1,0,0,0,0.95,0.42,0.24,0.65,C
+michelle-tay-404b95102,Michelle Tay,https://www.linkedin.com/in/michelle-tay-404b95102/,Singapore,1,0.67,0.18,1,1,0,1,1,0.86,0.57,0.46,1.03,C
+felixwongsingaporeproperty,Felix Wong,https://www.linkedin.com/in/felixwongsingaporeproperty/,Singapore,1,1,0.18,0,1,0,0,1,0.96,0.44,0.49,0.93,C
+jhohan-phua-bb153958,Jhohan Phua,https://www.linkedin.com/in/jhohan-phua-bb153958/,Singapore,1,1,0.13,0.5,1,0,1,0,0.86,0.53,0.21,0.74,C
+jelenasim,沈美铷Jelena Cassandra Sim,https://www.linkedin.com/in/jelenasim/,Singapore,1,1,0.23,1,1,0,1,1,0.89,0.65,0.47,1.12,C
+lisa-quek-aa937b76,Lisa Quek,https://www.linkedin.com/in/lisa-quek-aa937b76/,Singapore,1,1,0.35,0.5,1,0,1,1,0,0.57,0.25,0.82,E
+alvintyx,Alvin Toh,https://www.linkedin.com/in/alvintyx/,Singapore,1,1,0.13,0,1,0,1,0,0,0.43,0,0.43,A
+johnsonhuangrealty,"Johnson, Huang",https://www.linkedin.com/in/johnsonhuangrealty/,Singapore,1,1,0.13,1,0,0,1,0,0.91,0.43,0.23,0.65,A
+thomasquek,Thomas C Q.,https://www.linkedin.com/in/thomasquek/,Singapore,1,1,0.43,1,1,0,1,1,0.87,0.69,0.47,1.15,C
+jason-leong-梁显明-6b5818b9,Jason Leong 梁显明,https://www.linkedin.com/in/jason-leong-梁显明-6b5818b9/,Singapore,1,0.67,0.23,0.5,1,0,1,1,0.88,0.48,0.47,0.95,C
+richa-gupta-07511a4,Sychandra Services Pte Ltd Singapore,https://www.linkedin.com/in/richa-gupta-07511a4/,Singapore,1,1,0.05,1,0.5,0,1,0,0.88,0.51,0.22,0.73,A
+tan-anthony-5786651b,Tan Anthony,https://www.linkedin.com/in/tan-anthony-5786651b/,Singapore,1,0,0.15,1,1,0,1,0,0.92,0.43,0.23,0.66,C
+stephanie-hannah-tan-a22038166,Stephanie Hannah Tan,https://www.linkedin.com/in/stephanie-hannah-tan-a22038166/,Singapore,1,0,0.08,0,1,0,1,0,0.8,0.22,0.2,0.41,A
+lathiff-abdul-689b33,Lathiff Abdul,https://www.linkedin.com/in/lathiff-abdul-689b33/,Singapore,1,0,0.63,1,1,0,1,1,0,0.53,0.25,0.78,C
+jenny-xie-734b3627,Jenny Xie,https://www.linkedin.com/in/jenny-xie-734b3627/,Singapore,1,1,0.2,1,1,0,1,1,0.89,0.64,0.47,1.11,C
+henry-tay-86017437,Henry Tay,https://www.linkedin.com/in/henry-tay-86017437/,Singapore,1,0,0.25,1,1,0,1,1,0.91,0.45,0.48,0.93,C
+syahir-era,Syahir Md Reduan,https://www.linkedin.com/in/syahir-era/,Singapore,1,1,0.15,0.5,1,0,1,0,0,0.53,0,0.53,C
+kyan-tan-13495b122,Kyan Tan,https://www.linkedin.com/in/kyan-tan-13495b122/,Singapore,1,0.67,0.05,0,1,0,1,0,0.9,0.34,0.22,0.57,C
+nicholas-lam-70006a141,Nicholas Lam,https://www.linkedin.com/in/nicholas-lam-70006a141/,Singapore,1,1,0.15,0.5,0,0,0,0,0,0.33,0,0.33,E
+simon-lum-era-209569a4,Simon Lum ERA,https://www.linkedin.com/in/simon-lum-era-209569a4/,Singapore,0,1,0,0.5,1,0,1,0,0.83,0.7,0.21,0.91,S
+alvin-lim-41b17b25,Alvin Lim,https://www.linkedin.com/in/alvin-lim-41b17b25/,Singapore,1,1,0.18,1,1,0,0,1,0.78,0.64,0.44,1.08,C
+jasonqtp,Jason Quek,https://www.linkedin.com/in/jasonqtp/,Singapore,1,0,0,1,1,0,1,0,0.92,0.4,0.23,0.63,A
+clement-cheng-a021b429,Clement Cheng,https://www.linkedin.com/in/clement-cheng-a021b429/,Singapore,1,1,0.13,1,1,0,1,0,0.89,0.63,0.22,0.85,E
+jasellegoh,Jaselle Goh,https://www.linkedin.com/in/jasellegoh/,Singapore,1,0.67,0.08,0,1,0,1,0,0.85,0.35,0.21,0.56,A
+ken-lim-710839178,Ken Lim,https://www.linkedin.com/in/ken-lim-710839178/,Singapore,1,0,0,0,1,0,1,0,0,0.2,0,0.2,A
+jinn-tan-c-h-559bb6167,Jinn Tan C H,https://www.linkedin.com/in/jinn-tan-c-h-559bb6167/,Singapore,0,0.67,0.05,0.5,1,0,1,0,0,0.64,0,0.64,E
+rickneoh,Rick Neoh,https://www.linkedin.com/in/rickneoh/,Singapore,1,0.67,0.18,0.5,1,0,1,1,0,0.47,0.25,0.72,C
+marcusngrj,Marcus Ng,https://www.linkedin.com/in/marcusngrj/,Singapore,0,1,0.1,0.5,1,0,1,0,0.92,0.72,0.23,0.95,A
+thesgrealtor,David Lim,https://www.linkedin.com/in/thesgrealtor/,Singapore,0,0.67,0.25,1,1,0,1,1,0.89,0.78,0.47,1.26,S
+nurnavi-agent-sejati-015119169,Nurnavi Agent Sejati,https://www.linkedin.com/in/nurnavi-agent-sejati-015119169/,Singapore,0,1,0.1,1,1,0,1,0,0.9,0.82,0.23,1.05,S
+barry-chan-13620211,Barry Chan,https://www.linkedin.com/in/barry-chan-13620211/,Singapore,1,1,0.28,0.5,1,0,0,1,0.9,0.56,0.48,1.03,C
+shawnnks,Shawn Ng,https://www.linkedin.com/in/shawnnks/,Singapore,1,1,0.3,1,0,0,0,1,0.92,0.46,0.48,0.94,C
+amellda-chen-084534a1,amellda chen,https://www.linkedin.com/in/amellda-chen-084534a1/,Singapore,1,0.67,0.28,1,1,0,0,1,0.88,0.59,0.47,1.06,C
+yen-lun-boo-a435175a,Yen Lun Boo,https://www.linkedin.com/in/yen-lun-boo-a435175a/,Singapore,1,1,0.25,0.5,1,0,0,1,0.89,0.55,0.47,1.02,E
+limdaoqing,Lim Dao Qing (Brian),https://www.linkedin.com/in/limdaoqing/,Singapore,1,1,0.2,1,1,0,1,1,0.88,0.64,0.47,1.11,S
+dato-celestine-kong-6510b2127,Dato' Celestine Kong,https://www.linkedin.com/in/dato-celestine-kong-6510b2127/,Singapore,1,1,0.25,1,1,0,0,1,0.88,0.65,0.47,1.12,E
+hui-juan-tang-5a3854154,Hui Juan Tang,https://www.linkedin.com/in/hui-juan-tang-5a3854154/,Singapore,1,1,0.2,0.5,1,0,0,1,0,0.54,0.25,0.79,C
+phyllis-cl-wong-a2b2935,Phyllis CL Wong,https://www.linkedin.com/in/phyllis-cl-wong-a2b2935/,Singapore,1,1,0.33,1,1,0,0,1,0,0.67,0.25,0.92,C
+wong-larry-06945146,Wong Larry,https://www.linkedin.com/in/wong-larry-06945146/,Singapore,1,0,0.58,0.5,1,0,1,1,0,0.42,0.25,0.67,C
+mjilgmn,Maelyn Jean Lagman,https://www.linkedin.com/in/mjilgmn/,Singapore,1,1,0.03,0,1,0,1,0,0,0.41,0,0.41,C
+aaronwansg,Aaron Wan,https://www.linkedin.com/in/aaronwansg/,Singapore,1,1,0.13,1,1,0,0,0,0.88,0.63,0.22,0.85,C
+josephinengmh,Josephine Ng,https://www.linkedin.com/in/josephinengmh/,Singapore,1,1,0.23,1,1,0,0,1,0.93,0.65,0.48,1.13,C
+ryancustodio,Ryan Custodio,https://www.linkedin.com/in/ryancustodio/,Singapore,1,1,0.43,0.5,1,0,0,1,0.92,0.59,0.48,1.07,C
+davidcheongkw,David Cheong,https://www.linkedin.com/in/davidcheongkw/,Singapore,1,1,0.3,1,1,0,0,1,0,0.66,0.25,0.91,E
+yusuf-shafie-759888134,Yusuf Shafie,https://www.linkedin.com/in/yusuf-shafie-759888134/,Singapore,1,0.67,0.08,0.5,0.5,0,0,0,0.89,0.35,0.22,0.57,C
+thejasonlim,"Jason Lim, Investor and Mentor",https://www.linkedin.com/in/thejasonlim/,Singapore,1,0.67,0.18,1,0.5,0,0,1,0.82,0.47,0.46,0.92,C
+kierongoh,Kieron Goh,https://www.linkedin.com/in/kierongoh/,Singapore,1,0.67,0.18,0,0,0,0,1,0,0.17,0.25,0.42,B
+john-khoo-2863b0109,John Khoo,https://www.linkedin.com/in/john-khoo-2863b0109/,Singapore,1,1,0.18,0,0.5,0,0,1,0.9,0.34,0.48,0.81,C
+andrew-chua-36351730,Andrew Chua,https://www.linkedin.com/in/andrew-chua-36351730/,Singapore,1,0.67,0.15,1,1,0,0,0,0.88,0.56,0.22,0.78,S
+dahliabanusutrisno,Dahlia Sutrisno,https://www.linkedin.com/in/dahliabanusutrisno/,Singapore,1,0.33,0.03,0.5,1,0,0,0,0.92,0.37,0.23,0.6,A
+katelyn-tey-370824150,Katelyn Tey,https://www.linkedin.com/in/katelyn-tey-370824150/,Singapore,1,1,0.05,0,0.5,0,0,0,0,0.31,0,0.31,C
+colin-choo-01a61535,Colin Choo,https://www.linkedin.com/in/colin-choo-01a61535/,Singapore,1,0.67,0.35,1,1,0,0,1,0.99,0.6,0.5,1.1,C
+ronphua,Ron Phua,https://www.linkedin.com/in/ronphua/,Singapore,0,0.67,0.28,0,1,0,0,1,0.93,0.59,0.48,1.07,C
+phoebe-xie-55ba6a61,Phoebe Xie,https://www.linkedin.com/in/phoebe-xie-55ba6a61/,Singapore,1,1,0.23,0.5,0.5,0,0,1,0.89,0.45,0.47,0.92,C
+abdillahahmad,Ahmad Abdillah,https://www.linkedin.com/in/abdillahahmad/,Singapore,1,1,0.15,0,0,0,0,0,0.97,0.23,0.24,0.47,A
+yiantay,Yian Tay,https://www.linkedin.com/in/yiantay/,Singapore,1,1,0.18,1,1,0,0,1,0.88,0.64,0.47,1.11,C
+ang-yu-kiong-b0511434,Ang Yu Kiong,https://www.linkedin.com/in/ang-yu-kiong-b0511434/,Singapore,1,0.67,0.28,0,0,0,0,1,0.96,0.19,0.49,0.68,A
+benjamintan212,Benjamin Tan,https://www.linkedin.com/in/benjamintan212/,Singapore,1,0,0.35,0.5,0,0,0,1,0,0.17,0.25,0.42,A
+lynn-ng-2aa434143,LYNN NG,https://www.linkedin.com/in/lynn-ng-2aa434143/,Singapore,1,1,0.3,0.5,1,0,0,1,0.99,0.56,0.5,1.06,E
+garrett-oh-35808817,Garrett Oh,https://www.linkedin.com/in/garrett-oh-35808817/,Singapore,1,0,0.25,0,1,0,0,1,0.95,0.25,0.49,0.74,C
+justinchiu1,Gordonn Chiu,https://www.linkedin.com/in/justinchiu1/,Singapore,0,1,0.18,1,0,0,0,1,0.9,0.64,0.47,1.11,C
+anthony-yeo,Anthony Yeo   杨宝兴,https://www.linkedin.com/in/anthony-yeo/,Singapore,1,1,0.18,0.5,0.5,0,0,1,0.91,0.44,0.48,0.91,C
+louiskwek,Louis Kwek,https://www.linkedin.com/in/louiskwek/,Singapore,1,1,0.18,1,1,0,0,1,0.9,0.64,0.48,1.11,E
+naserimah,Naserimah (Nas N) N,https://www.linkedin.com/in/naserimah/,Singapore,1,1,0.18,1,0.5,0,0,1,0.92,0.54,0.48,1.01,E
+danpangmp,Dan Pang,https://www.linkedin.com/in/danpangmp/,Singapore,1,1,0.13,0.5,0.5,0,0,0,0.87,0.43,0.22,0.64,C
+michelle-koh-06763770,Michelle Koh,https://www.linkedin.com/in/michelle-koh-06763770/,Singapore,0,0.67,0.15,0,1,0,0,0,0.91,0.56,0.23,0.79,C
+baron-yeo-294a6656,Baron Yeo,https://www.linkedin.com/in/baron-yeo-294a6656/,Singapore,1,0,0.23,1,0.5,0,0,1,0.9,0.35,0.47,0.82,C
+violetyap,Violet Yap,https://www.linkedin.com/in/violetyap/,Singapore,1,0.67,0.05,1,0,0,0,0,0.93,0.34,0.23,0.57,A
+baijialong,Bai Jialong,https://www.linkedin.com/in/baijialong/,Singapore,0,1,0.08,0,1,0,0,0,0.88,0.62,0.22,0.84,A
+zhi-chong-png-551595102,Zhi Chong Png,https://www.linkedin.com/in/zhi-chong-png-551595102/,Singapore,1,1,0.35,1,1,0,0,1,0.92,0.67,0.48,1.15,C
+eric-tan-32115619,Eric Tan,https://www.linkedin.com/in/eric-tan-32115619/,Singapore,1,1,0.28,1,1,0,0,1,0.63,0.66,0.41,1.06,C
+xuan-qi-heng-926a06a9,Xuan Qi Heng,https://www.linkedin.com/in/xuan-qi-heng-926a06a9/,Singapore,1,1,0.2,0.5,0,0,0,1,0.84,0.34,0.46,0.8,C
+cheng-guan-teo-3b4239105,Cheng Guan Teo,https://www.linkedin.com/in/cheng-guan-teo-3b4239105/,Singapore,1,0,0.18,1,1,0,0,1,0.99,0.44,0.5,0.93,E
+emma-thao-dinh-8b439b126,Emma Thao Dinh,https://www.linkedin.com/in/emma-thao-dinh-8b439b126/,Singapore,0,1,0.08,1,1,0,0,0,0.91,0.82,0.23,1.04,S
+neo-shi-qin-24793438,Neo Shi Qin,https://www.linkedin.com/in/neo-shi-qin-24793438/,Singapore,1,1,0.25,0,1,0,0,1,0.88,0.45,0.47,0.92,E
+marcustayrealestate,Marcus Tay,https://www.linkedin.com/in/marcustayrealestate/,Singapore,0,1,0.08,1,1,0,0,0,0.9,0.82,0.22,1.04,A
+venus-wang-a8393352,Venus Wang,https://www.linkedin.com/in/venus-wang-a8393352/,Singapore,1,1,0.48,1,0,0,0,1,0.89,0.5,0.47,0.97,S
+isobel-tan-97682a1,Isobel Tan,https://www.linkedin.com/in/isobel-tan-97682a1/,Singapore,0,0.33,0.33,0.5,1,0,0,1,0.88,0.63,0.47,1.1,C
+samantha-ang-553159a9,Samantha Ang,https://www.linkedin.com/in/samantha-ang-553159a9/,Singapore,1,1,0.25,0.5,1,0,0,1,0.92,0.55,0.48,1.03,E
+paul-law-959a16aa,Paul Law,https://www.linkedin.com/in/paul-law-959a16aa/,Singapore,1,1,0.43,0,0,0,0,1,0.91,0.29,0.48,0.76,C
+sara-vanan,Sara Vanan,https://www.linkedin.com/in/sara-vanan/,Singapore,1,0,0.28,1,1,0,0,1,0,0.46,0.25,0.71,C
+jessica-linardi-78317399,Jessica Linardi,https://www.linkedin.com/in/jessica-linardi-78317399/,Singapore,1,1,0.2,0.5,1,0,0,1,0.9,0.54,0.48,1.02,C
+shirley-ramos-chua-22756616,Shirley Ramos-Chua,https://www.linkedin.com/in/shirley-ramos-chua-22756616/,Singapore,1,0.67,0.13,1,1,0,0,0,0,0.56,0,0.56,E
+robintankw,"Robin Tan (MBA, PMP, CBAP)",https://www.linkedin.com/in/robintankw/,Singapore,1,0.67,0.25,0.5,1,0,0,1,0.9,0.48,0.48,0.96,C
+hasan-khan-6b062442,Hasan Khan,https://www.linkedin.com/in/hasan-khan-6b062442/,Singapore,1,1,0.13,0.5,0.5,0,0,0,0.91,0.43,0.23,0.65,C
+chong-fan-0146039b,Chong Fan,https://www.linkedin.com/in/chong-fan-0146039b/,Singapore,1,0,0.33,1,1,0,0,1,0.86,0.47,0.46,0.93,C
+daphne-chew-3b887098,Daphne Chew,https://www.linkedin.com/in/daphne-chew-3b887098/,Singapore,1,0.33,0.25,0.5,1,0,0,1,0,0.42,0.25,0.67,C
+jameskok,james kokhk,https://www.linkedin.com/in/jameskok/,Singapore,1,1,0.23,1,1,0,0,1,0,0.65,0.25,0.9,E
+wendy-cheng-4877b329,Wendy Cheng,https://www.linkedin.com/in/wendy-cheng-4877b329/,Singapore,0,0.67,0.33,1,1,0,0,1,0,0.8,0.25,1.05,AMG GT
+christine-cheng-41132a103,Christine Cheng,https://www.linkedin.com/in/christine-cheng-41132a103/,Singapore,1,1,0.25,0.5,0.5,0,0,1,0,0.45,0.25,0.7,C
+alvin-low-6579ab34,Alvin Low,https://www.linkedin.com/in/alvin-low-6579ab34/,Singapore,1,0,0.13,1,1,0,0,0,0.91,0.43,0.23,0.65,A
+ho-hong-meng-07346a17,Ho Hong Meng,https://www.linkedin.com/in/ho-hong-meng-07346a17/,Singapore,1,0,0.25,0.5,0.5,0,0,1,0,0.25,0.25,0.5,C
+martin-lim-3a63576a,Martin Lim,https://www.linkedin.com/in/martin-lim-3a63576a/,Singapore,1,0.67,0.55,0,1,0,0,1,0.87,0.44,0.47,0.91,C
+jaslyn-chua-383ab8131,Jaslyn Chua,https://www.linkedin.com/in/jaslyn-chua-383ab8131/,Singapore,1,1,0.35,0,0.5,0,0,1,0.89,0.37,0.47,0.84,C
+jen-huei-lee,Jen Huei Lee,https://www.linkedin.com/in/jen-huei-lee/,Singapore,1,1,0.35,1,1,0,0,1,0.97,0.67,0.49,1.16,S
+raquel-poh-1a87a37b,Raquel Poh,https://www.linkedin.com/in/raquel-poh-1a87a37b/,Singapore,1,1,0.23,0.5,1,0,0,1,0,0.55,0.25,0.8,E
+kimberly-tiang-132a2a5b,Kimberly Tiang,https://www.linkedin.com/in/kimberly-tiang-132a2a5b/,Singapore,1,0.67,0.28,0,1,0,0,1,0.87,0.39,0.47,0.86,E
+wallace-cheong-wai-seng-0269167,Wallace Cheong Wai Seng,https://www.linkedin.com/in/wallace-cheong-wai-seng-0269167/,Singapore,1,1,0.3,0.5,1,0,0,1,0,0.56,0.25,0.81,C
+alexis-tan-154ba4a2,Alexis Tan,https://www.linkedin.com/in/alexis-tan-154ba4a2/,Singapore,0,0.67,0.28,1,0,0,0,1,0,0.59,0.25,0.84,C
+kenny-lim-a40bb3b6,Kenny Lim,https://www.linkedin.com/in/kenny-lim-a40bb3b6/,Singapore,1,1,0.55,0.5,0,0,0,1,0.9,0.41,0.47,0.88,E
+zi-quan-ong-7585a218,ZI QUAN ONG,https://www.linkedin.com/in/zi-quan-ong-7585a218/,Singapore,1,1,0.25,0,1,0,0,1,0,0.45,0.25,0.7,C
+irene-peh-白宝琴-34b02b105,Irene Peh 白宝琴,https://www.linkedin.com/in/irene-peh-白宝琴-34b02b105/,Singapore,1,0,0.6,1,1,0,0,1,0.9,0.52,0.47,0.99,C
+benson-chow-699ba977,Benson Chow,https://www.linkedin.com/in/benson-chow-699ba977/,Singapore,1,0,0.3,1,1,0,0,1,0.9,0.46,0.47,0.93,C
+alanyong90027538,Jielun Yang,https://www.linkedin.com/in/alanyong90027538/,Singapore,1,1,0.48,0.5,1,0,0,1,0.99,0.6,0.5,1.09,E
+oh-qi-yuan-chris-040334121,Oh Qi Yuan (Chris),https://www.linkedin.com/in/oh-qi-yuan-chris-040334121/,Singapore,0,1,0.03,0,1,0,0,0,0.94,0.61,0.23,0.84,A
+cindy-chua-873a868a,Cindy Chua,https://www.linkedin.com/in/cindy-chua-873a868a/,Singapore,1,1,0.43,1,1,0,0,1,0.95,0.69,0.49,1.17,C
+kelvin-tay-3bbbaa76,Kelvin Tay,https://www.linkedin.com/in/kelvin-tay-3bbbaa76/,Singapore,1,1,0.08,1,1,0,0,0,0.86,0.62,0.21,0.83,C
+eric-chan-51495b11,Eric Chan,https://www.linkedin.com/in/eric-chan-51495b11/,Singapore,1,0,0.2,0.5,1,0,0,1,0.96,0.34,0.49,0.83,C
+mabel-tan-037bb224,Mabel Tan,https://www.linkedin.com/in/mabel-tan-037bb224/,Singapore,1,0.33,0.2,0.5,1,0,0,1,0.86,0.41,0.46,0.87,E
+clarence-goh-吴𤈛興-3a5728128,Clarence Goh 吴𤈛興,https://www.linkedin.com/in/clarence-goh-吴𤈛興-3a5728128/,Singapore,0,1,0.4,0.5,1,0,0,1,0.89,0.78,0.47,1.25,C
+kellywongjiayi,Kelly Wong,https://www.linkedin.com/in/kellywongjiayi/,Singapore,1,1,0.1,1,1,0,0,0,0,0.62,0,0.62,A
+daryl-lee-97790813b,Daryl Lee,https://www.linkedin.com/in/daryl-lee-97790813b/,Singapore,1,1,0.45,1,0,0,0,1,0,0.49,0.25,0.74,C
+nizamadli,Nizam Adli Saparin,https://www.linkedin.com/in/nizamadli/,Singapore,1,1,0.48,1,1,0,0,1,0.91,0.7,0.48,1.17,C
+doris-cheng-a69b071,Doris Cheng,https://www.linkedin.com/in/doris-cheng-a69b071/,Singapore,1,1,0.58,1,1,0,0,1,0.87,0.72,0.47,1.18,S
+mary-tow-b644927a,mary Tow,https://www.linkedin.com/in/mary-tow-b644927a/,Singapore,1,0,0.25,1,1,0,0,1,0.88,0.45,0.47,0.92,C
+kamsatonrohani,Kamsaton Rohani,https://www.linkedin.com/in/kamsatonrohani/,Singapore,0,1,0.33,0,1,0,0,1,0.88,0.67,0.47,1.13,E
+victor-ang-30639614,Victor Ang,https://www.linkedin.com/in/victor-ang-30639614/,Singapore,0,0.67,0,1,0.5,0,0,0,0.92,0.63,0.23,0.86,A
+lawrence-low-85025496,Lawrence Low,https://www.linkedin.com/in/lawrence-low-85025496/,Singapore,1,0.67,0.58,1,1,0,0,1,0.8,0.65,0.45,1.1,C
+sheena-bath-10ab03138,Sheena Bath,https://www.linkedin.com/in/sheena-bath-10ab03138/,Singapore,1,1,0.23,0,1,0,0,1,0,0.45,0.25,0.7,C
+😇-alex-yong-杨安杰-8a755253,😇 Alex Yong (杨安杰),https://www.linkedin.com/in/😇-alex-yong-杨安杰-8a755253/,Singapore,1,0.67,0.25,1,1,0,0,1,0.89,0.58,0.47,1.05,C
+tina-wang-4ba157124,Tina Wang,https://www.linkedin.com/in/tina-wang-4ba157124/,Singapore,1,0.67,0.2,0,1,0,0,1,0.91,0.37,0.48,0.85,C
+kylephang,Kyle Phang,https://www.linkedin.com/in/kylephang/,Singapore,1,0,0.23,0.5,1,0,0,1,0,0.35,0.25,0.6,C
+sakeenah-khan,Sakeenah K.,https://www.linkedin.com/in/sakeenah-khan/,Singapore,1,0.67,0.18,1,1,0,0,1,0.9,0.57,0.47,1.04,E
+abrahamliu88,Abraham Liu,https://www.linkedin.com/in/abrahamliu88/,Singapore,1,1,0.13,1,1,0,0,0,0,0.63,0,0.63,E
+carmen-choo,Carmen Choo,https://www.linkedin.com/in/carmen-choo/,Singapore,1,1,0.08,1,1,0,0,0,0.83,0.62,0.21,0.82,A
+magdalene-chia-59168317,Magdalene Chia,https://www.linkedin.com/in/magdalene-chia-59168317/,Singapore,1,1,0.1,0,1,0,0,0,0.78,0.42,0.19,0.61,A
+jeffrey-chua-91b879179,Jeffrey Chua,https://www.linkedin.com/in/jeffrey-chua-91b879179/,Singapore,1,1,0.6,1,1,0,0,1,0.92,0.72,0.48,1.2,E
+cheryl-dan-61207a85,Cheryl Dan,https://www.linkedin.com/in/cheryl-dan-61207a85/,Singapore,1,1,0.15,1,1,0,0,0,0.89,0.63,0.22,0.85,E
+jimtaysg,Jim Tay,https://www.linkedin.com/in/jimtaysg/,Singapore,1,1,0.13,1,1,0,0,0,0.85,0.63,0.21,0.84,A
+zakcham,Zak Cham,https://www.linkedin.com/in/zakcham/,Singapore,1,1,0.48,1,1,0,0,1,0,0.7,0.25,0.95,C
+alycia-wang-b0499317,Alycia Wang,https://www.linkedin.com/in/alycia-wang-b0499317/,Singapore,1,0,0.33,1,1,0,0,1,0,0.47,0.25,0.72,E
+zuhdyfarhan,Zuhdy Farhan,https://www.linkedin.com/in/zuhdyfarhan/,Singapore,0,1,0.1,0,1,0,0,0,0,0.62,0,0.62,A
+brenda-ng-bb1839130,Brenda Ng,https://www.linkedin.com/in/brenda-ng-bb1839130/,Singapore,1,1,0.15,0.5,1,0,0,0,0.92,0.53,0.23,0.76,C
+tricia-ong,Tricia Ong,https://www.linkedin.com/in/tricia-ong/,Singapore,1,0,0.28,1,1,0,0,1,0.89,0.46,0.47,0.93,C
+lynnette-poh-傅慧芳-93639a21,Lynnette Poh (傅慧芳),https://www.linkedin.com/in/lynnette-poh-傅慧芳-93639a21/,Singapore,0,0.67,0.43,0,1,0,0,1,0.9,0.62,0.48,1.09,C
+soh-harn-jun-winston-423427b1,Soh Harn Jun Winston,https://www.linkedin.com/in/soh-harn-jun-winston-423427b1/,Singapore,1,1,0.1,1,1,0,0,0,0.9,0.62,0.23,0.85,A
+taufiq-hamid-65ba67141,Taufiq Hamid,https://www.linkedin.com/in/taufiq-hamid-65ba67141/,Singapore,1,0.67,0.15,0.5,1,0,0,0,0.92,0.46,0.23,0.69,A
+thomastaygh,Thomas Tay,https://www.linkedin.com/in/thomastaygh/,Singapore,1,0,0.63,0,1,0,0,1,0.88,0.33,0.47,0.79,E
+joshua-lim-4b99452b,Joshua Lim,https://www.linkedin.com/in/joshua-lim-4b99452b/,Singapore,1,0.67,0.2,1,1,0,0,1,0.89,0.57,0.47,1.05,E
+rini-purnomo-6091234b,Rini Purnomo,https://www.linkedin.com/in/rini-purnomo-6091234b/,Singapore,1,1,0.18,0,1,0,0,1,0.88,0.44,0.47,0.91,C
+anthony-lim-89346816,anthony lim,https://www.linkedin.com/in/anthony-lim-89346816/,Singapore,1,0.67,0.18,0,0.5,0,0,1,0.88,0.27,0.47,0.74,C
+askrealtormani,✪ Mani Subramanian Veeramani,https://www.linkedin.com/in/askrealtormani/,Singapore,1,1,0.1,1,1,0,0,0,0,0.62,0,0.62,E
+think-property-think-serene-lee-6bb14835,Think Property Think Serene Lee,https://www.linkedin.com/in/think-property-think-serene-lee-6bb14835/,Singapore,1,0,0.9,0.5,1,0,0,1,0,0.48,0.25,0.73,C
+tan-yong-liang-73b92563,Tan Yong Liang,https://www.linkedin.com/in/tan-yong-liang-73b92563/,Singapore,1,1,0.25,0.5,1,0,0,1,0,0.55,0.25,0.8,C
+ong-jack-shen-686a9966,Ong Jack Shen,https://www.linkedin.com/in/ong-jack-shen-686a9966/,Singapore,1,1,0.43,1,1,0,0,1,0,0.69,0.25,0.94,C
+lye-ai-ling-89709019,Lye Ai Ling,https://www.linkedin.com/in/lye-ai-ling-89709019/,Singapore,1,0,0.05,1,1,0,0,0,0.89,0.41,0.22,0.63,E
+edwin-chan-田旭超-a7896350,Edwin Chan (田旭超),https://www.linkedin.com/in/edwin-chan-田旭超-a7896350/,Singapore,1,1,0.5,1,1,0,0,1,0.95,0.7,0.49,1.19,C
+tai-wei-liong-wilson-27830313,Tai Wei Liong Wilson,https://www.linkedin.com/in/tai-wei-liong-wilson-27830313/,Singapore,1,1,0,0,1,0,0,0,0.9,0.4,0.23,0.63,C
+ying-zhen-quek-961bb061,Ying Zhen Quek,https://www.linkedin.com/in/ying-zhen-quek-961bb061/,Singapore,1,1,0.25,0,1,0,0,1,0.88,0.45,0.47,0.92,C
+daniel-jones-b051335,Daniel Jones,https://www.linkedin.com/in/daniel-jones-b051335/,Singapore,1,1,0.3,1,1,0,0,1,0,0.66,0.25,0.91,E
+derek-kong-13a83b62,Derek Kong,https://www.linkedin.com/in/derek-kong-13a83b62/,Singapore,1,1,0.13,1,1,0,0,0,0.9,0.63,0.22,0.85,E
+amelia-tan-9504b9b7,Amelia Tan,https://www.linkedin.com/in/amelia-tan-9504b9b7/,Singapore,1,0,0.18,0.5,0,0,0,1,0.88,0.14,0.47,0.61,A
+audrey-tan-95141193,Audrey Tan,https://www.linkedin.com/in/audrey-tan-95141193/,Singapore,1,1,0.08,0,1,0,0,0,0.89,0.42,0.22,0.64,C
+olivermoey,Oliver Moey,https://www.linkedin.com/in/olivermoey/,Singapore,1,1,0.18,1,1,0,0,1,0.88,0.64,0.47,1.1,C
+stella-tan-9190253b,Stella Tan,https://www.linkedin.com/in/stella-tan-9190253b/,Singapore,0,1,0.38,1,1,0,0,1,0,0.88,0.25,1.13,E
+joey-sun-huiyi-246ba236,Joey Sun Huiyi,https://www.linkedin.com/in/joey-sun-huiyi-246ba236/,Singapore,1,0.67,0.33,1,1,0,0,1,0.87,0.6,0.47,1.07,E
+patriciachua,Patricia Chua ( 蔡 佲 麗 ),https://www.linkedin.com/in/patriciachua/,Singapore,1,1,0.45,0,1,0,0,1,0.89,0.49,0.47,0.96,C
+bonnie-tan-021171a,Bonnie Tan,https://www.linkedin.com/in/bonnie-tan-021171a/,Singapore,1,1,0.23,0.5,0,0,0,1,0.93,0.35,0.48,0.83,C
+propertysingh,Avneet Singh,https://www.linkedin.com/in/propertysingh/,Singapore,0,1,0.03,0,0.5,0,0,0,0,0.51,0,0.51,E
+jacksontansc,Jackson Tan,https://www.linkedin.com/in/jacksontansc/,Singapore,1,1,0.25,0,1,0,0,1,0.86,0.45,0.47,0.92,C
+william-hong-481b1a147,William Hong,https://www.linkedin.com/in/william-hong-481b1a147/,Singapore,1,1,0.13,0,1,0,0,0,0.98,0.43,0.24,0.67,C
+kaizarkarkaria,Kaizar Karkaria,https://www.linkedin.com/in/kaizarkarkaria/,Singapore,0,1,0.3,0,0,0,0,1,0,0.46,0.25,0.71,C
+yen-loo-lydia-wu-5791101b,Yen Loo Lydia Wu,https://www.linkedin.com/in/yen-loo-lydia-wu-5791101b/,Singapore,1,1,0.48,0.5,0,0,0,1,0.91,0.4,0.48,0.87,C
+cheryl-lee-7baa8493,Cheryl Lee,https://www.linkedin.com/in/cheryl-lee-7baa8493/,Singapore,0,1,0.43,0.5,1,0,0,1,0.96,0.79,0.49,1.27,AMG GT
+celina-chong-张慧芳-76276298,Celina Chong  张慧芳,https://www.linkedin.com/in/celina-chong-张慧芳-76276298/,Singapore,1,1,0.15,1,1,0,0,0,0,0.63,0,0.63,S
+leon-chea-谢曜隆-2a15539a,Leon Chea 谢曜隆,https://www.linkedin.com/in/leon-chea-谢曜隆-2a15539a/,Singapore,1,0.67,0.08,1,1,0,0,0,0.92,0.55,0.23,0.78,E
+david-lim-realestate,David Lim,https://www.linkedin.com/in/david-lim-realestate/,Singapore,1,0,0.08,1,0,0,0,0,0,0.22,0,0.22,A
+min-shun-hsu-b3675a27,Min Shun Hsu,https://www.linkedin.com/in/min-shun-hsu-b3675a27/,Singapore,1,1,0.28,0,1,0,0,1,0.92,0.46,0.48,0.93,C
+shawnyapwei,Shawn Yap,https://www.linkedin.com/in/shawnyapwei/,Singapore,1,1,0.08,0,1,0,0,0,0,0.42,0,0.42,A
+vicki-zhang-53bb1499,Vicki Zhang,https://www.linkedin.com/in/vicki-zhang-53bb1499/,Singapore,1,0.67,0.18,0.5,1,0,0,1,0.98,0.47,0.49,0.96,E
+kai-chin-083ab2a4,Kai Chin,https://www.linkedin.com/in/kai-chin-083ab2a4/,Singapore,1,1,0.25,1,1,0,0,1,0.96,0.65,0.49,1.14,C
+jadechan9900,Jade Chanel Chan 玉,https://www.linkedin.com/in/jadechan9900/,Singapore,1,0.67,0.65,1,1,0,0,1,0.92,0.66,0.48,1.14,C
+michmlam,Michelle Lam,https://www.linkedin.com/in/michmlam/,Singapore,1,1,0.18,0.5,0.5,0,0,1,0.9,0.44,0.48,0.91,C
+sunita-gill-9784b34,Sunita Gill,https://www.linkedin.com/in/sunita-gill-9784b34/,Singapore,1,0.67,0.28,1,0,0,0,1,0,0.39,0.25,0.64,C
+jaysonang,Jayson Ang,https://www.linkedin.com/in/jaysonang/,Singapore,1,1,0.15,1,1,0,0,0,0.86,0.63,0.21,0.84,A
+davidmboudville,David Boudville,https://www.linkedin.com/in/davidmboudville/,Singapore,0,1,0.1,0,1,0,0,0,0.9,0.62,0.22,0.84,A
+jimmysoh,Jimmy SOH 苏志敏,https://www.linkedin.com/in/jimmysoh/,Singapore,1,1,0.15,1,1,0,0,0,0.88,0.63,0.22,0.85,A
+nicholas-tay-7a502315b,Nicholas Tay,https://www.linkedin.com/in/nicholas-tay-7a502315b/,Singapore,0,1,0.05,0,1,0,0,0,0.93,0.61,0.23,0.84,E
+jovin-ng-b51a49105,Jovin Ng,https://www.linkedin.com/in/jovin-ng-b51a49105/,Singapore,1,1,0.08,0,0,0,0,0,0.92,0.22,0.23,0.45,A
+tian-seet-yuen-3a897015a,Tian Seet Yuen,https://www.linkedin.com/in/tian-seet-yuen-3a897015a/,Singapore,0,1,0.08,0.5,0,0,0,0,0,0.52,0,0.52,C
+shubhamperiwal,Shubham Periwal,https://www.linkedin.com/in/shubhamperiwal/,Singapore,0,1,0.03,1,1,0,0,0,0.89,0.81,0.22,1.03,AMG GT
+lvbowen,Bowen Lyu,https://www.linkedin.com/in/lvbowen/,Singapore,1,1,0.1,0.5,1,0,0,0,0.82,0.52,0.21,0.73,A
+randall-han-32a5a6139,Randall Han,https://www.linkedin.com/in/randall-han-32a5a6139/,Singapore,0,1,0.1,0,0.5,0,0,0,0,0.52,0,0.52,E
+paul-cheong-349a2016b,Paul Cheong,https://www.linkedin.com/in/paul-cheong-349a2016b/,Singapore,0,1,0.08,0.5,0,0,0,0,0.9,0.52,0.23,0.74,E
+larrythng,Larry Thng,https://www.linkedin.com/in/larrythng/,Singapore,0,1,0.08,0,0,0,0,0,0.88,0.42,0.22,0.63,C
+darryl-mok-284411106,Darryl Mok,https://www.linkedin.com/in/darryl-mok-284411106/,Singapore,1,1,0.08,0,0,0,0,0,0.92,0.22,0.23,0.45,A
+xytanxinyi,Xinyi Tan,https://www.linkedin.com/in/xytanxinyi/,Singapore,0,1,0.08,0.5,1,0,0,0,0,0.72,0,0.72,A
+xinyao-nie,Xinyao Nie,https://www.linkedin.com/in/xinyao-nie/,Singapore,1,1,0.03,1,0,0,0,0,0.99,0.41,0.25,0.65,E
+darren-tanyh,Darren Tan,https://www.linkedin.com/in/darren-tanyh/,Singapore,0,1,0.1,0,0.5,0,0,0,0.93,0.52,0.23,0.75,E
+li-yingqi,Effy Yingqi Li,https://www.linkedin.com/in/li-yingqi/,Singapore,1,1,0.13,1,1,0,0,0,0.89,0.63,0.22,0.85,E
+yi-xiang-yeo,Yi Xiang Yeo,https://www.linkedin.com/in/yi-xiang-yeo/,Singapore,1,1,0.05,0.5,0.5,0,0,0,0.97,0.41,0.24,0.65,A
+tay-pin,Tay Pin,https://www.linkedin.com/in/tay-pin/,Singapore,1,1,0.05,1,1,0,0,0,0.88,0.61,0.22,0.83,A
+tang-yuanbo,Tang Yuanbo,https://www.linkedin.com/in/tang-yuanbo/,Singapore,0,1,0.03,0.5,0,0,0,0,0.96,0.51,0.24,0.74,E
+jazreel-tho,Jazreel Tho,https://www.linkedin.com/in/jazreel-tho/,Singapore,0,1,0.05,0.5,1,0,0,0,0,0.71,0,0.71,A
+nicholas-ong-315143139,Nicholas Ong,https://www.linkedin.com/in/nicholas-ong-315143139/,Singapore,1,1,0.13,0.5,0,0,0,0,0.99,0.33,0.25,0.57,E
+darrentan0512,Darren Tan,https://www.linkedin.com/in/darrentan0512/,Singapore,1,1,0.05,0.5,0.5,0,0,0,0.95,0.41,0.24,0.65,A
+harvey-lauw-462479157,Harvey lauw,https://www.linkedin.com/in/harvey-lauw-462479157/,Singapore,0,1,0.13,0.5,1,0,0,0,0.9,0.73,0.22,0.95,E
+likzdev,KangZheng Li,https://www.linkedin.com/in/likzdev/,Singapore,0,1,0.03,0.5,1,0,0,0,0.91,0.71,0.23,0.93,E
+joeldavidwong,Joel-David Wong,https://www.linkedin.com/in/joeldavidwong/,Singapore,0,1,0.13,0.5,0,0,0,0,0.9,0.53,0.23,0.75,C
+darren-m-388522186,Darren M.,https://www.linkedin.com/in/darren-m-388522186/,Singapore,0,1,0.08,0.5,0,0,0,0,0.92,0.52,0.23,0.74,E
+tohzijie,Zi Jie Toh,https://www.linkedin.com/in/tohzijie/,Singapore,0,1,0.13,0,1,0,0,0,0.87,0.63,0.22,0.84,A
+bong-jun-hao-alan-40721185,Bong Jun Hao Alan,https://www.linkedin.com/in/bong-jun-hao-alan-40721185/,Singapore,1,1,0.15,0.5,0,0,0,0,0.91,0.33,0.23,0.56,C
+chew-wen-wei,Wen Wei (赵文巍) Chew,https://www.linkedin.com/in/chew-wen-wei/,Singapore,1,1,0.13,0.5,1,0,0,0,0.9,0.53,0.22,0.75,A
+chewchinrui,Chin Rui Chew,https://www.linkedin.com/in/chewchinrui/,Singapore,1,1,0.08,1,0.5,0,0,0,0.93,0.52,0.23,0.75,E
+shauntrs,Shaun Teo,https://www.linkedin.com/in/shauntrs/,Singapore,1,1,0.18,0.5,1,0,0,1,0.88,0.54,0.47,1.01,E
+daniel-chin-wenkai,Daniel Chin,https://www.linkedin.com/in/daniel-chin-wenkai/,Singapore,0,1,0,0.5,0,0,0,0,0.92,0.5,0.23,0.73,E
+andrewwljie,Andrew Leong,https://www.linkedin.com/in/andrewwljie/,Singapore,0,1,0.15,0,1,0,0,0,0.63,0.63,0.16,0.79,A
+tanrio-sj,Tanrio S.J,https://www.linkedin.com/in/tanrio-sj/,Singapore,0,1,0.1,0.5,0,0,0,0,0.84,0.52,0.21,0.73,A
+prakoso-budi-santoso-73a51ab1,Prakoso Budi Santoso,https://www.linkedin.com/in/prakoso-budi-santoso-73a51ab1/,Singapore,1,1,0.13,0.5,0.5,0,0,0,0.99,0.43,0.25,0.67,C
+jolieayp,Jolie Aw,https://www.linkedin.com/in/jolieayp/,Singapore,0,1,0.05,0.5,0,0,0,0,0.91,0.51,0.23,0.74,E
+thiaweisoon,Wei Soon THIA,https://www.linkedin.com/in/thiaweisoon/,Singapore,1,1,0.23,0,0,0,0,1,0.88,0.25,0.47,0.72,E
+jeremy-sun-zhao-cheng-61812b170,Jeremy Sun Zhao Cheng,https://www.linkedin.com/in/jeremy-sun-zhao-cheng-61812b170/,Singapore,0,1,0.03,0.5,0,0,0,0,0.9,0.51,0.22,0.73,E
+eugenengnh,Eugene Ng,https://www.linkedin.com/in/eugenengnh/,Singapore,1,1,0.1,0,1,0,0,0,0.89,0.42,0.22,0.64,A
+darren-gan-323629b6,Darren Gan,https://www.linkedin.com/in/darren-gan-323629b6/,Singapore,0,1,0.13,0.5,0,0,0,0,0.88,0.53,0.22,0.74,E
+raginiverma,Ragini Verma,https://www.linkedin.com/in/raginiverma/,Singapore,0,1,0.03,0.5,0,0,0,0,0.92,0.51,0.23,0.74,E
+li-xuan-lim,Li Xuan Lim,https://www.linkedin.com/in/li-xuan-lim/,Singapore,0,1,0.05,0.5,0,0,0,0,0.91,0.51,0.23,0.74,C
+timothysoh1995,Timothy Soh,https://www.linkedin.com/in/timothysoh1995/,Singapore,0,1,0.13,0.5,1,0,0,0,0,0.73,0,0.73,E
+shao-tang-sze-624b53a1,Shao Tang Sze,https://www.linkedin.com/in/shao-tang-sze-624b53a1/,Singapore,0,1,0,0.5,0,0,0,0,0.9,0.5,0.23,0.73,A
+glenn-ong-518585106,Glenn Ong,https://www.linkedin.com/in/glenn-ong-518585106/,Singapore,1,0.67,0.05,0.5,0.5,0,0,0,0,0.34,0,0.34,A
+benedict-ang,Benedict Ang,https://www.linkedin.com/in/benedict-ang/,Singapore,1,1,0.05,0.5,1,0,0,0,0.9,0.51,0.23,0.74,A
+tangkaigi,Kai Gi TANG,https://www.linkedin.com/in/tangkaigi/,Singapore,0,1,0.08,1,0,0,0,0,0.91,0.62,0.23,0.84,E
+alicia-lee-jing-wen,Alicia Lee,https://www.linkedin.com/in/alicia-lee-jing-wen/,Singapore,0,1,0.13,0.5,0.5,0,0,0,0.86,0.63,0.21,0.84,A
+zeph-ng-38a699160,Zeph Ng,https://www.linkedin.com/in/zeph-ng-38a699160/,Singapore,0,1,0.05,0.5,0.5,0,0,0,0,0.61,0,0.61,A
+clarice-ho-14a07413a,Clarice Ho,https://www.linkedin.com/in/clarice-ho-14a07413a/,Singapore,0,1,0.03,1,0,0,0,0,0,0.61,0,0.61,A
+katerynamazurenko,Kateryna Mazurenko,https://www.linkedin.com/in/katerynamazurenko/,Singapore,1,1,0.05,0,0,0,0,0,0,0.21,0,0.21,A
+shawnleemh,Shawn Lee,https://www.linkedin.com/in/shawnleemh/,Singapore,0,1,0.13,0.5,0,0,0,0,0,0.53,0,0.53,C
+rhemanthkumar93,R.Hemanth Kumar,https://www.linkedin.com/in/rhemanthkumar93/,Singapore,1,1,0.08,0.5,0,0,0,0,0.91,0.32,0.23,0.54,C
+dionysusyan,Dionysus Yan,https://www.linkedin.com/in/dionysusyan/,Singapore,0,1,0.03,1,0,0,0,0,0,0.61,0,0.61,S
+eustacezheng,Eustace Zheng,https://www.linkedin.com/in/eustacezheng/,Singapore,1,1,0.08,0.5,1,0,0,0,0.87,0.52,0.22,0.73,A
+damianezy,Damian Er,https://www.linkedin.com/in/damianezy/,Singapore,0,1,0.13,0.5,0,0,0,0,0.89,0.53,0.22,0.75,S
+chanyusiang,Yu Siang Chan,https://www.linkedin.com/in/chanyusiang/,Singapore,0,1,0.03,1,0.5,0,0,0,0.97,0.71,0.24,0.95,S
+ronald-lay,Ronald Lay,https://www.linkedin.com/in/ronald-lay/,Singapore,0,1,0.15,0.5,0,0,0,0,0,0.53,0,0.53,A
+zachery-ng,Zachery Ng,https://www.linkedin.com/in/zachery-ng/,Singapore,1,1,0.05,0.5,1,0,0,0,0.87,0.51,0.22,0.73,C
+tokvincent,Vincent Tok,https://www.linkedin.com/in/tokvincent/,Singapore,0,1,0.15,0.5,0,0,0,0,0,0.53,0,0.53,E
+youjin-wang-971ba851,Youjin Wang,https://www.linkedin.com/in/youjin-wang-971ba851/,Singapore,1,1,0.08,1,0.5,0,0,0,0,0.52,0,0.52,S
+weiminlee95,Lee Wei Min,https://www.linkedin.com/in/weiminlee95/,Singapore,0,1,0.1,0,0,0,0,0,0.9,0.42,0.22,0.64,C
+ethan-hu-jiayu,Ethan Hu Jiayu,https://www.linkedin.com/in/ethan-hu-jiayu/,Singapore,1,1,0.05,0,0,0,0,0,0,0.21,0,0.21,A
+ngrq94,Rui Qin Ng,https://www.linkedin.com/in/ngrq94/,Singapore,0,1,0.03,0.5,1,0,0,0,0.9,0.71,0.22,0.93,E
+kevin-wijono-119b9712a,Kevin Wijono,https://www.linkedin.com/in/kevin-wijono-119b9712a/,Singapore,1,1,0.05,0.5,0,0,0,0,0.9,0.31,0.22,0.53,A
+lim-jia-sheng,Lim Jia Sheng,https://www.linkedin.com/in/lim-jia-sheng/,Singapore,1,1,0.03,1,0.5,0,0,0,0.99,0.51,0.25,0.75,C
+taybingyuan,Tay Bingyuan,https://www.linkedin.com/in/taybingyuan/,Singapore,0,1,0.08,0.5,0,0,0,0,0.94,0.52,0.23,0.75,C
+marcus-tay-79346214a,Marcus Tay,https://www.linkedin.com/in/marcus-tay-79346214a/,Singapore,0,1,0.1,0,0.5,0,0,0,0.95,0.52,0.24,0.76,E
+pranjald,Pranjal Dubey,https://www.linkedin.com/in/pranjald/,Singapore,1,1,0.08,1,1,0,0,0,0.86,0.62,0.21,0.83,E
+liu-zuo-lin-996b5a16b,Liu Zuo Lin,https://www.linkedin.com/in/liu-zuo-lin-996b5a16b/,Singapore,0,1,0.05,0.5,0.5,0,0,0,0.96,0.61,0.24,0.85,E
+lowjunyew,Low Jun Yew,https://www.linkedin.com/in/lowjunyew/,Singapore,1,1,0.15,0,0,0,0,0,0.86,0.23,0.21,0.44,A
+patricklyh,Patrick Lim,https://www.linkedin.com/in/patricklyh/,Singapore,0,1,0.03,0,1,0,0,0,0.89,0.61,0.22,0.83,E
+wende-bu-103b55151,Wende BU,https://www.linkedin.com/in/wende-bu-103b55151/,Singapore,0,1,0.05,0,1,0,0,0,0,0.61,0,0.61,A
+lionelngzeji,Lionel Ng,https://www.linkedin.com/in/lionelngzeji/,Singapore,0,1,0,0,0,0,0,0,0,0.4,0,0.4,C
+shrmn,Sherman Koa,https://www.linkedin.com/in/shrmn/,Singapore,0,1,0.05,0.5,0.5,0,0,0,0.91,0.61,0.23,0.84,E
+arixpsy,Arix Phua,https://www.linkedin.com/in/arixpsy/,Singapore,0,1,0.1,1,0,0,0,0,0.87,0.62,0.22,0.84,E
+joleen-mok,Joleen Mok,https://www.linkedin.com/in/joleen-mok/,Singapore,1,1,0.05,0.5,1,0,0,0,0.88,0.51,0.22,0.73,C
+alextiangzy,Alex Tiang,https://www.linkedin.com/in/alextiangzy/,Singapore,1,1,0.2,0,0,0,0,1,0.88,0.24,0.47,0.71,A
+jaterloh,Jater Loh,https://www.linkedin.com/in/jaterloh/,Singapore,1,1,0.18,0.5,1,0,0,1,0.92,0.54,0.48,1.01,C
+richietanbx,Richie Tan,https://www.linkedin.com/in/richietanbx/,Singapore,0,1,0.1,0.5,0,0,0,0,0.8,0.52,0.2,0.72,C
+jordangch,Jordan G.,https://www.linkedin.com/in/jordangch/,Singapore,1,1,0.18,0.5,0.5,0,0,1,0,0.44,0.25,0.69,C
+kankan-zhou-a56b1430,Kankan Zhou,https://www.linkedin.com/in/kankan-zhou-a56b1430/,Singapore,0,1,0.23,0.5,0,0,0,1,0.89,0.55,0.47,1.02,C
+andy-gong-0a47a6103,Andy Gong,https://www.linkedin.com/in/andy-gong-0a47a6103/,Singapore,1,1,0.35,0.5,0,0,0,1,0.91,0.37,0.48,0.85,C
+behweichen,Wei Chen Beh,https://www.linkedin.com/in/behweichen/,Singapore,0,1,0,0.5,0,0,0,0,0,0.5,0,0.5,E
+jodie-ethelda,Jodie Ethelda,https://www.linkedin.com/in/jodie-ethelda/,Singapore,0,1,0.03,0.5,0,0,0,0,0.9,0.51,0.22,0.73,C
+felicia-ong-7b13b716a,Felicia Ong,https://www.linkedin.com/in/felicia-ong-7b13b716a/,Singapore,0,0.67,0.13,0,1,0,0,0,0,0.56,0,0.56,S
+zxx,Cindy Z.,https://www.linkedin.com/in/zxx/,Singapore,0,1,0.03,0.5,0,0,0,0,0.83,0.51,0.21,0.71,E
+allysonlimmm,Allyson Lim,https://www.linkedin.com/in/allysonlimmm/,Singapore,0,1,0.05,0.5,1,0,0,0,0.78,0.71,0.19,0.9,A
+krystaltanminxian,Krystal Tan,https://www.linkedin.com/in/krystaltanminxian/,Singapore,0,1,0.05,0.5,0,0,0,0,0.92,0.51,0.23,0.74,A
+corytam93,Cory Tam,https://www.linkedin.com/in/corytam93/,Singapore,1,1,0.05,0,1,0,0,0,0.89,0.41,0.22,0.63,C
+renatadharma,Renata Dharma,https://www.linkedin.com/in/renatadharma/,Singapore,0,1,0.03,1,0,0,0,0,0.85,0.61,0.21,0.82,A
+janell-lee-263383134,Janell Lee,https://www.linkedin.com/in/janell-lee-263383134/,Singapore,0,1,0.03,0.5,1,0,0,0,0,0.71,0,0.71,A
+poonhaojun,Poon Hao Jun,https://www.linkedin.com/in/poonhaojun/,Singapore,1,1,0,0.5,0,0,0,0,0,0.3,0,0.3,C
+rbarros,Rafael J. Barros,https://www.linkedin.com/in/rbarros/,Singapore,1,1,0.33,0.5,0,0,0,1,0,0.37,0.25,0.62,E
+aakanksha-kumari,Aakanksha Kumari,https://www.linkedin.com/in/aakanksha-kumari/,Singapore,1,1,0.13,0,1,0,0,0,0.92,0.43,0.23,0.65,C
+jun-xiang-ong,Jun Xiang Ong,https://www.linkedin.com/in/jun-xiang-ong/,Singapore,0,1,0.05,0.5,0,0,0,0,0.89,0.51,0.22,0.73,A
+nydiasubur,Nydia Subur,https://www.linkedin.com/in/nydiasubur/,Singapore,0,1,0.05,0.5,0,0,0,0,0.9,0.51,0.23,0.74,A
+ngyingxue,Ng Ying Xue,https://www.linkedin.com/in/ngyingxue/,Singapore,0,1,0.08,0,0,0,0,0,0.9,0.42,0.23,0.64,C
+chaw-khin-nyein-5b9992130,Chaw Khin Nyein,https://www.linkedin.com/in/chaw-khin-nyein-5b9992130/,Singapore,1,1,0.03,0.5,1,0,0,0,0.92,0.51,0.23,0.73,A
+yuyang-zhang-499292107,Yuyang zhang,https://www.linkedin.com/in/yuyang-zhang-499292107/,Singapore,1,1,0.08,0.5,1,0,0,0,0.88,0.52,0.22,0.73,E
+sokyi,Sok Yi Tan,https://www.linkedin.com/in/sokyi/,Singapore,0,1,0.03,0.5,0,0,0,0,0.89,0.51,0.22,0.73,C
+jerrytohvan,Jerry Tohvan,https://www.linkedin.com/in/jerrytohvan/,Singapore,0,1,0.03,0.5,0,0,0,0,0.88,0.51,0.22,0.73,C
+sherlyck,Sherly Cendana Koalitas,https://www.linkedin.com/in/sherlyck/,Singapore,0,0.67,0.08,0,1,0,0,0,0.88,0.55,0.22,0.77,A
+liyonglei,Yonglei Li,https://www.linkedin.com/in/liyonglei/,Singapore,0,1,0.15,0,1,0,0,0,0,0.63,0,0.63,C
+keechin,Keechin Goh,https://www.linkedin.com/in/keechin/,Singapore,1,0.67,0.08,0.5,0,0,0,0,0,0.25,0,0.25,C
+erikaaldisa,Erika A.,https://www.linkedin.com/in/erikaaldisa/,Singapore,0,1,0,0.5,1,0,0,0,0,0.7,0,0.7,E
+oscar-sia-170164137,Oscar Sia,https://www.linkedin.com/in/oscar-sia-170164137/,Singapore,1,1,0.03,0.5,1,0,0,0,0,0.51,0,0.51,A
+wayneloh,Wayne Loh,https://www.linkedin.com/in/wayneloh/,Singapore,0,1,0.05,0.5,0,0,0,0,0.89,0.51,0.22,0.73,E
+jonchewyl,Jonathan Chew,https://www.linkedin.com/in/jonchewyl/,Singapore,1,1,0.05,0.5,0.5,0,0,0,0.95,0.41,0.24,0.65,E
+weisley-hong,Weisley Hong,https://www.linkedin.com/in/weisley-hong/,Singapore,0,1,0,0.5,0,0,0,0,0.9,0.5,0.23,0.73,C
+ziqing-chen-330b051a,Ziqing Chen,https://www.linkedin.com/in/ziqing-chen-330b051a/,Singapore,1,1,0.08,0.5,0.5,0,0,0,0.88,0.42,0.22,0.64,A
+keithcarter,Keith Carter,https://www.linkedin.com/in/keithcarter/,Singapore,1,0.67,0.08,0.5,0,0,0,0,0,0.25,0,0.25,A
+anthony-goh-sgp,Anthony Goh,https://www.linkedin.com/in/anthony-goh-sgp/,Singapore,1,1,0.08,0.5,1,0,0,0,0.9,0.52,0.22,0.74,A
+lvnvenkat,Venkat Narayanan (LVN),https://www.linkedin.com/in/lvnvenkat/,Singapore,1,0,0.55,0.5,0.5,0,0,1,0.88,0.31,0.47,0.78,C
+hanafi-sedik-6221b6bb,Hanafi Sedik,https://www.linkedin.com/in/hanafi-sedik-6221b6bb/,Singapore,0,0.67,0.1,0,1,0,0,0,0.89,0.55,0.22,0.78,E
+aloysius-ang-36277350,Aloysius Ang,https://www.linkedin.com/in/aloysius-ang-36277350/,Singapore,1,0.67,0.05,1,0,0,0,0,0.88,0.34,0.22,0.56,A
+davidrh,David R. Hardoon,https://www.linkedin.com/in/davidrh/,Singapore,1,1,0.33,0,0,0,0,1,0,0.27,0.25,0.52,C
+eugene-fang,Eugene Fang,https://www.linkedin.com/in/eugene-fang/,Singapore,0,1,0.05,0.5,0,0,0,0,0.87,0.51,0.22,0.73,E
+samuelseah,Samuel Seah,https://www.linkedin.com/in/samuelseah/,Singapore,0,1,0.25,0.5,1,0,0,1,0.89,0.75,0.47,1.22,E
+marose-san-buenaventura-275913140,Marose San Buenaventura,https://www.linkedin.com/in/marose-san-buenaventura-275913140/,Philippines,1,0,0.33,0.5,1,0,0,1,0.93,0.37,0.48,0.85,C
+peng-fei-yu-69783a93,Peng Fei Yu,https://www.linkedin.com/in/peng-fei-yu-69783a93/,Singapore,0,0.67,0.13,0.5,0,0,0,0,0,0.46,0,0.46,A
+ng-zhi-yuan-31980a161,Ng Zhi Yuan,https://www.linkedin.com/in/ng-zhi-yuan-31980a161/,Singapore,0,0.67,0.1,1,0,0,0,0,0.86,0.55,0.22,0.77,E
+salvare-heng-zhi-jian,Salvare Heng Zhi Jian,https://www.linkedin.com/in/salvare-heng-zhi-jian/,Singapore,1,1,0.13,1,1,0,0,0,0.98,0.63,0.24,0.87,E
+yongsiang,Yong Siang (Ivan) Tan,https://www.linkedin.com/in/yongsiang/,Singapore,1,1,0.1,0,0,0,0,0,0,0.22,0,0.22,A
+siew-hui-lee-b041b5ab,Siew Hui Lee,https://www.linkedin.com/in/siew-hui-lee-b041b5ab/,Singapore,1,1,0.15,1,1,0,0,0,0.91,0.63,0.23,0.86,A
+akashsmittal,Akash Mittal,https://www.linkedin.com/in/akashsmittal/,Singapore,0,1,0.08,0.5,0,0,0,0,0.96,0.52,0.24,0.75,E
+choojunjie,Jun Jie Choo,https://www.linkedin.com/in/choojunjie/,Singapore,0,1,0.15,0.5,0,0,0,0,0,0.53,0,0.53,A
+justin-choy7777,Justin Choy,https://www.linkedin.com/in/justin-choy7777/,Singapore,0,1,0,1,1,0,0,0,0.92,0.8,0.23,1.03,A
+rebecca965,Rebecca Tan,https://www.linkedin.com/in/rebecca965/,Singapore,1,1,0.13,1,1,0,0,0,0,0.63,0,0.63,E
+danielayl,Daniel Ang Yang Lin,https://www.linkedin.com/in/danielayl/,Singapore,0,1,0.13,0.5,1,0,0,0,0.92,0.73,0.23,0.95,E
+joelimwk,Joel Lim,https://www.linkedin.com/in/joelimwk/,Singapore,0,1,0.03,0,0,0,0,0,0,0.41,0,0.41,A
+limin-gao-ss94949494,Weichen Gao,https://www.linkedin.com/in/limin-gao-ss94949494/,Singapore,0,1,0.13,0,1,0,0,0,0.98,0.63,0.24,0.87,E
+brandon-lim-290160102,Brandon Lim,https://www.linkedin.com/in/brandon-lim-290160102/,Singapore,0,1,0.03,0.5,0.5,0,0,0,0.88,0.61,0.22,0.83,A
+harokoh,Harold Koh,https://www.linkedin.com/in/harokoh/,Singapore,1,1,0.05,1,0,0,0,0,0.93,0.41,0.23,0.64,C
+gohyuangeok,Yuan Geok Goh (Doph),https://www.linkedin.com/in/gohyuangeok/,Singapore,1,1,0.15,0,0.5,0,0,0,0.92,0.33,0.23,0.56,A
+gwendolynler,Gwendolyn Ler,https://www.linkedin.com/in/gwendolynler/,Singapore,0,1,0.08,0.5,0,0,0,0,0,0.52,0,0.52,C
+tania-ong-212010154,Tania Ong,https://www.linkedin.com/in/tania-ong-212010154/,Singapore,0,1,0.05,1,1,0,0,0,0.89,0.81,0.22,1.03,S
+tan-teng-wei-1bb76a159,Tan Teng Wei,https://www.linkedin.com/in/tan-teng-wei-1bb76a159/,Singapore,0,1,0,0.5,0.5,0,0,0,0.82,0.6,0.21,0.81,C
+sunghwan-park-6a683b178,SungHwan Park,https://www.linkedin.com/in/sunghwan-park-6a683b178/,Singapore,0,1,0.1,0,1,0,0,0,0,0.62,0,0.62,A
+jonathan-chua-yx,Jonathan Chua,https://www.linkedin.com/in/jonathan-chua-yx/,Singapore,1,1,0.08,0,0.5,0,0,0,0.9,0.32,0.23,0.54,A
+wong-wee-ming-726165a6,Wong Wee Ming,https://www.linkedin.com/in/wong-wee-ming-726165a6/,Singapore,1,1,0.1,0,0,0,0,0,0.88,0.22,0.22,0.44,A
+rach-lee-,Rachel Lee,https://www.linkedin.com/in/rach-lee-/,Singapore,1,1,0.05,0,0.5,0,0,0,0.92,0.31,0.23,0.54,C
+janelle-quek-a06952174,Janelle Quek,https://www.linkedin.com/in/janelle-quek-a06952174/,Singapore,1,1,0.05,0.5,0.5,0,0,0,0,0.41,0,0.41,A
+yuxi-chew,Yuxi Chew,https://www.linkedin.com/in/yuxi-chew/,Singapore,0,1,0.08,0,0,0,0,0,0.99,0.42,0.25,0.66,C
+yicheensee,Yi Cheen See,https://www.linkedin.com/in/yicheensee/,Singapore,1,1,0.13,1,1,0,0,0,0.93,0.63,0.23,0.86,E
+marissa-chong-a584b5111,Marissa Chong,https://www.linkedin.com/in/marissa-chong-a584b5111/,Singapore,0,1,0,0.5,0,0,0,0,0.89,0.5,0.22,0.72,A
+zealeriagoh,Zealeria Goh,https://www.linkedin.com/in/zealeriagoh/,Singapore,0,1,0.1,0.5,0,0,0,0,0.97,0.52,0.24,0.76,C
+johanneschong,Johannes Chong,https://www.linkedin.com/in/johanneschong/,Singapore,0,1,0.1,0.5,0,0,0,0,0.88,0.52,0.22,0.74,A
+nicole-lim-605b31106,Nicole Lim,https://www.linkedin.com/in/nicole-lim-605b31106/,Singapore,1,1,0.08,0,1,0,0,0,0.96,0.42,0.24,0.65,A
+frank-h-6164a587,Frank H.,https://www.linkedin.com/in/frank-h-6164a587/,Singapore,1,1,0.05,0,0,0,0,0,0,0.21,0,0.21,A
+royston-ho,Royston Ho,https://www.linkedin.com/in/royston-ho/,Singapore,0,1,0.15,0,0.5,0,0,0,0.99,0.53,0.25,0.78,C
+hari-kishan-ramesh-kumar-000028169,Hari Kishan Ramesh Kumar,https://www.linkedin.com/in/hari-kishan-ramesh-kumar-000028169/,Singapore,0,1,0.15,0,0,0,0,0,0.95,0.43,0.24,0.67,A
+zachary-chia,Zachary Chia,https://www.linkedin.com/in/zachary-chia/,Singapore,1,1,0.03,0.5,0,0,0,0,0.9,0.31,0.22,0.53,C
+jiayi-chia-smu,Jiayi Chia,https://www.linkedin.com/in/jiayi-chia-smu/,Singapore,0,1,0.03,0.5,0,0,0,0,0.91,0.51,0.23,0.73,E
+natlucian,Nathaniel Lim,https://www.linkedin.com/in/natlucian/,Singapore,0,1,0.03,0.5,0,0,0,0,0.9,0.51,0.23,0.73,C
+mavericklim,Maverick Lim,https://www.linkedin.com/in/mavericklim/,Singapore,0,1,0.03,0.5,1,0,0,0,0.92,0.71,0.23,0.93,A
+suhassahu,Suhas Sahu,https://www.linkedin.com/in/suhassahu/,Singapore,0,1,0.13,0,0,0,0,0,0.87,0.43,0.22,0.64,C
+faisalramlee,Faisal Ramlee,https://www.linkedin.com/in/faisalramlee/,Singapore,1,1,0.1,0,1,0,0,0,0.91,0.42,0.23,0.65,A
+tyrina-toh-60490a164,Tyrina Toh,https://www.linkedin.com/in/tyrina-toh-60490a164/,Singapore,0,1,0.03,0.5,0,0,0,0,0.9,0.51,0.22,0.73,A
+antonin-crestois-540684a6,Antonin Crestois,https://www.linkedin.com/in/antonin-crestois-540684a6/,Singapore,0,1,0.08,0,0.5,0,0,0,0.93,0.52,0.23,0.75,A
+jerald-kfchan,Jerald Chan,https://www.linkedin.com/in/jerald-kfchan/,Singapore,1,1,0.15,0,1,0,0,0,0.88,0.43,0.22,0.65,C
+chrystayuen,Chrysta Yuen,https://www.linkedin.com/in/chrystayuen/,Singapore,1,1,0.08,1,1,0,0,0,0.92,0.62,0.23,0.85,E
+wayntan,Wayn Tan,https://www.linkedin.com/in/wayntan/,Singapore,0,0.67,0.03,1,0,0,0,0,0.63,0.54,0.16,0.7,E
+bernard-low-b91990123,Bernard Low,https://www.linkedin.com/in/bernard-low-b91990123/,Singapore,1,1,0.15,1,0,0,0,0,0.84,0.43,0.21,0.64,E
+mark-soh,Mark Soh,https://www.linkedin.com/in/mark-soh/,Singapore,1,0.67,0.13,0.5,1,0,0,0,0.99,0.46,0.25,0.71,C
+jeanettewongzr,Jeanette Wong,https://www.linkedin.com/in/jeanettewongzr/,Singapore,1,1,0.15,0.5,0,0,0,0,0.91,0.33,0.23,0.56,E
+nglingyan,Lingyan Ng,https://www.linkedin.com/in/nglingyan/,Singapore,1,1,0.05,0.5,1,0,0,0,0.88,0.51,0.22,0.73,C
+germaine-fork,Germaine Fork,https://www.linkedin.com/in/germaine-fork/,Singapore,0,1,0.08,0,1,0,0,0,0.9,0.62,0.22,0.84,A
+alastair-tan,Alastair Tan,https://www.linkedin.com/in/alastair-tan/,Singapore,1,1,0.03,0,1,0,0,0,0.89,0.41,0.22,0.63,A
+lydia-limyj,Lydia Lim,https://www.linkedin.com/in/lydia-limyj/,Singapore,0,1,0.03,1,1,0,0,0,0.88,0.81,0.22,1.02,S
+sasha-joseph,Sasha Joseph,https://www.linkedin.com/in/sasha-joseph/,Singapore,1,1,0.08,0.5,0.5,0,0,0,0.92,0.42,0.23,0.65,A
+apollosarnold,Apollos Arnold,https://www.linkedin.com/in/apollosarnold/,Singapore,1,1,0.05,0.5,0.5,0,0,0,0.91,0.41,0.23,0.64,A
+bellatjl,Bella Tan,https://www.linkedin.com/in/bellatjl/,Singapore,1,1,0.18,0,0,0,0,1,0,0.24,0.25,0.49,A
+minyeelow,Min Yee L.,https://www.linkedin.com/in/minyeelow/,Singapore,0,1,0.05,0,0,0,0,0,0.9,0.41,0.23,0.64,C
+loozhengyuan,Zheng Yuan Loo,https://www.linkedin.com/in/loozhengyuan/,Singapore,1,1,0.13,0.5,0,0,0,0,0,0.33,0,0.33,C
+m1keyap,Mike Yap,https://www.linkedin.com/in/m1keyap/,Singapore,0,0.67,0.08,1,0,0,0,0,0.9,0.55,0.23,0.77,E
+triciachiaxy,Tricia Chia,https://www.linkedin.com/in/triciachiaxy/,Singapore,0,1,0.03,0.5,0.5,0,0,0,0.91,0.61,0.23,0.83,A
+seo-expert-singapore,Jim Ng,https://www.linkedin.com/in/seo-expert-singapore/,Singapore,0,0.67,0.1,0.5,0.5,0,0,0,0.86,0.55,0.21,0.77,S
+kevin-teo-6129bb172,Kevin Teo,https://www.linkedin.com/in/kevin-teo-6129bb172/,Singapore,0,1,0.05,0.5,0.5,0,0,0,0,0.61,0,0.61,E
+daryl-lieu-zhi-wei,Daryl Lieu,https://www.linkedin.com/in/daryl-lieu-zhi-wei/,Singapore,1,1,0.1,0.5,0,0,0,0,0,0.32,0,0.32,E
+veronica-bella-arifin,Veronica Bella Arifin,https://www.linkedin.com/in/veronica-bella-arifin/,Singapore,0,1,0.15,0,0,0,0,0,0,0.43,0,0.43,A
+neo-shi-shiong-602a04139,Neo Shi Shiong,https://www.linkedin.com/in/neo-shi-shiong-602a04139/,Singapore,0,1,0.08,0.5,0,0,0,0,0,0.52,0,0.52,A
+clement-toh,Clement Toh,https://www.linkedin.com/in/clement-toh/,Singapore,0,1,0.05,0.5,1,0,0,0,0.91,0.71,0.23,0.94,E
+bryan-quek-895924133,Bryan Quek,https://www.linkedin.com/in/bryan-quek-895924133/,Singapore,0,1,0.1,0.5,1,0,0,0,0,0.72,0,0.72,A
+jeevitha-ganesan-47a7a566,Jeevitha Ganesan,https://www.linkedin.com/in/jeevitha-ganesan-47a7a566/,Singapore,1,1,0.1,0.5,1,0,0,0,0.87,0.52,0.22,0.74,A
+rebecca-tan-28086812a,Rebecca Tan,https://www.linkedin.com/in/rebecca-tan-28086812a/,Singapore,1,1,0.13,0,0.5,0,0,0,0.89,0.33,0.22,0.55,A
+gladyslimfang,Gladys Lim Fang,https://www.linkedin.com/in/gladyslimfang/,Singapore,0,1,0.03,0,0.5,0,0,0,0.97,0.51,0.24,0.75,E
+melissa-soh-50634013a,Melissa Soh,https://www.linkedin.com/in/melissa-soh-50634013a/,Singapore,1,1,0.1,0.5,0,0,0,0,0,0.32,0,0.32,A
+meganlim,Megan Lim,https://www.linkedin.com/in/meganlim/,Singapore,0,1,0.1,1,0,0,0,0,0.87,0.62,0.22,0.84,A
+fredabek,Freda Bek,https://www.linkedin.com/in/fredabek/,Singapore,0,1,0.08,0.5,0,0,0,0,0,0.52,0,0.52,A
+ho-xin-da-95520076,Ho Xin Da,https://www.linkedin.com/in/ho-xin-da-95520076/,Singapore,0,1,0.13,0.5,1,0,0,0,0,0.73,0,0.73,E
+javince-chan-264013139,Javince Chan,https://www.linkedin.com/in/javince-chan-264013139/,Singapore,1,1,0.05,0,1,0,0,0,0.9,0.41,0.22,0.63,A
+parveshdhillon,Parvesh Singh Dhillon,https://www.linkedin.com/in/parveshdhillon/,Singapore,1,1,0.15,0,0.5,0,0,0,0,0.33,0,0.33,C
+bryanohwh,Bryan Oh,https://www.linkedin.com/in/bryanohwh/,Singapore,0,1,0.1,0,0.5,0,0,0,0.9,0.52,0.22,0.74,A
+elliceoh,Ellice Oh,https://www.linkedin.com/in/elliceoh/,Singapore,1,1,0.08,0.5,1,0,0,0,0.9,0.52,0.22,0.74,E
+marcus-tan-99230715a,Marcus Tan,https://www.linkedin.com/in/marcus-tan-99230715a/,Singapore,1,1,0.13,1,1,0,0,0,0.99,0.63,0.25,0.87,E
+vivienhoweiyen,Vivien Ho,https://www.linkedin.com/in/vivienhoweiyen/,Hong Kong,1,1,0.1,0,0,0,0,0,0.94,0.22,0.23,0.45,A
+you-li-ang,You Li Ang,https://www.linkedin.com/in/you-li-ang/,Singapore,1,1,0.15,0,1,0,0,0,0.95,0.43,0.24,0.67,C
+jeremyleewj,Jeremy Lee,https://www.linkedin.com/in/jeremyleewj/,Singapore,1,1,0.15,1,0.5,0,0,0,0.86,0.53,0.21,0.74,S
+koh-jin-kheng-5b88b0155,Koh Jin Kheng,https://www.linkedin.com/in/koh-jin-kheng-5b88b0155/,Singapore,0,1,0.03,1,0,0,0,0,0.96,0.61,0.24,0.85,S
+daphne-foo-a2a881138,Daphne Foo,https://www.linkedin.com/in/daphne-foo-a2a881138/,Singapore,1,1,0.05,0.5,0,0,0,0,0.86,0.31,0.21,0.52,A
+bertrandtee,Bertrand T.,https://www.linkedin.com/in/bertrandtee/,Singapore,1,1,0.08,0,0,0,0,0,0.89,0.22,0.22,0.44,A
+marcgoh,Marc Goh,https://www.linkedin.com/in/marcgoh/,Singapore,1,1,0.68,1,1,0,0,1,0,0.74,0.25,0.99,C
+shawn-wong-459202113,Shawn Wong,https://www.linkedin.com/in/shawn-wong-459202113/,Singapore,1,0.67,0.13,0,1,0,0,0,0,0.36,0,0.36,C
+genvtan,Genevieve Tan,https://www.linkedin.com/in/genvtan/,Singapore,1,1,0.1,0,0,0,0,0,0.91,0.22,0.23,0.45,A
+gloriawongxh,Gloria Wong,https://www.linkedin.com/in/gloriawongxh/,Singapore,1,1,0.08,0.5,1,0,0,0,0.87,0.52,0.22,0.73,A
+dingchangzhao,Ding ChangZhao,https://www.linkedin.com/in/dingchangzhao/,Singapore,0,1,0.15,0.5,0.5,0,0,0,0.88,0.63,0.22,0.85,A
+tammiann-how,Tammiann How,https://www.linkedin.com/in/tammiann-how/,Singapore,1,1,0.08,0,1,0,0,0,0.88,0.42,0.22,0.63,A
+colinchua,Colin Chua,https://www.linkedin.com/in/colinchua/,Singapore,0,1,0.08,1,1,0,0,0,0.92,0.82,0.23,1.04,AMG GT
+tranbinhminh,Tran Minh,https://www.linkedin.com/in/tranbinhminh/,Singapore,1,1,0.13,0.5,1,0,0,0,0.8,0.53,0.2,0.72,C
+ianlimsw,Ian Lim Sze Wei,https://www.linkedin.com/in/ianlimsw/,Singapore,1,1,0.1,0.5,0.5,0,0,0,0,0.42,0,0.42,C
+jacquelyn-yap,Jacquelyn Yap,https://www.linkedin.com/in/jacquelyn-yap/,Singapore,0,1,0.03,1,0,0,0,0,0.89,0.61,0.22,0.83,E
+kehuithen,Ke Hui Then,https://www.linkedin.com/in/kehuithen/,Singapore,1,1,0.08,0.5,0,0,0,0,0.91,0.32,0.23,0.54,E
+koh-jin-jie,Jin Jie Koh (JJ),https://www.linkedin.com/in/koh-jin-jie/,Singapore,0,1,0,1,0,0,0,0,0,0.6,0,0.6,C
+jedd-joseph-917789117,Jedd Joseph,https://www.linkedin.com/in/jedd-joseph-917789117/,Singapore,1,0.67,0.15,1,0.5,0,0,0,0.9,0.46,0.22,0.69,A
+chris-lho-chen-yen-3ab208179,Chris Lho Chen Yen,https://www.linkedin.com/in/chris-lho-chen-yen-3ab208179/,Singapore,0,1,0.08,0,1,0,0,0,0,0.62,0,0.62,E
+jacob-loh-778475139,Jacob Loh,https://www.linkedin.com/in/jacob-loh-778475139/,Singapore,1,1,0.15,1,0,0,1,0,0.88,0.43,0.22,0.65,C
+li-wang-b30a32105,Li Wang,https://www.linkedin.com/in/li-wang-b30a32105/,Singapore,1,1,0.08,0,0.5,0,1,0,0.93,0.32,0.23,0.55,C
+sendra-ng,Sendra Ng,https://www.linkedin.com/in/sendra-ng/,Singapore,0,1,0.08,0.5,1,0,1,0,0.92,0.72,0.23,0.95,E
+clarissa-eu-,Clarissa Eu,https://www.linkedin.com/in/clarissa-eu-/,Singapore,0,1,0.08,0,0,0,1,0,0,0.42,0,0.42,A
+gabriel-20j94,Gabriel Lim,https://www.linkedin.com/in/gabriel-20j94/,Singapore,0,1,0.15,0,0.5,0,1,0,0.89,0.53,0.22,0.75,A
+jenny-yan-ni-84a1b6144,Jenny YAN Ni,https://www.linkedin.com/in/jenny-yan-ni-84a1b6144/,Singapore,0,1,0.03,0.5,0,0,1,0,0.82,0.51,0.21,0.71,C
+haotian-gao-bb6819153,Haotian Gao,https://www.linkedin.com/in/haotian-gao-bb6819153/,Singapore,0,1,0.08,0.5,1,0,1,0,0,0.72,0,0.72,E
+jee-yean-yew-298102147,Jee Yean Yew,https://www.linkedin.com/in/jee-yean-yew-298102147/,Singapore,0,1,0.05,0,1,0,1,0,0.9,0.61,0.23,0.84,A
+tayshuweibeatrice,Beatrice Tay,https://www.linkedin.com/in/tayshuweibeatrice/,Singapore,0,1,0,0.5,0,0,1,0,0.92,0.5,0.23,0.73,E
+leehsiuee,Reuben Lee Hsiu Ee,https://www.linkedin.com/in/leehsiuee/,Singapore,1,1,0.05,0,1,0,1,0,0,0.41,0,0.41,C
+cleavechingwq,Cleave Ching,https://www.linkedin.com/in/cleavechingwq/,Singapore,0,1,0.15,0.5,1,0,1,0,0.99,0.73,0.25,0.98,E
+xiemeishi,Xie Meishi,https://www.linkedin.com/in/xiemeishi/,Singapore,1,1,0.33,0.5,0,0,1,1,0.93,0.37,0.48,0.85,C
+junhao-you-035812121,Junhao You,https://www.linkedin.com/in/junhao-you-035812121/,Singapore,1,1,0.15,0.5,1,0,1,0,0.89,0.53,0.22,0.75,C
+bryan-chua-69b86717a,Bryan Chua,https://www.linkedin.com/in/bryan-chua-69b86717a/,Singapore,1,1,0.13,0.5,1,0,1,0,0.97,0.53,0.24,0.77,A
+philipdampal,Philip Alvan Day-yo Dampal,https://www.linkedin.com/in/philipdampal/,Singapore,1,1,0.25,0,1,0,1,1,0.88,0.45,0.47,0.92,E
+aaronjayfrancis,Aaron Jay Francis,https://www.linkedin.com/in/aaronjayfrancis/,Singapore,1,1,0.03,0.5,1,0,0,0,0.96,0.51,0.24,0.74,S
+keith-onn-6aab4317b,Keith Onn,https://www.linkedin.com/in/keith-onn-6aab4317b/,Singapore,1,0.67,0.03,0.5,1,0,1,0,0,0.44,0,0.44,A
+gerald-tan-32142015b,Gerald Tan,https://www.linkedin.com/in/gerald-tan-32142015b/,Singapore,0,1,0.1,0,1,0,1,0,0.99,0.62,0.25,0.87,E
+delphine-liyuwardi-tan-98302946,Delphine Liyuwardi Tan,https://www.linkedin.com/in/delphine-liyuwardi-tan-98302946/,Singapore,1,1,0.63,1,1,0,1,1,0.95,0.73,0.49,1.21,C
+marcus-khoo-08b0865b,Marcus Khoo,https://www.linkedin.com/in/marcus-khoo-08b0865b/,Singapore,1,1,0.1,0,1,0,1,0,0.9,0.42,0.22,0.64,A
+xavier-wong-246240164,Xavier Wong,https://www.linkedin.com/in/xavier-wong-246240164/,Singapore,1,0.67,0.1,0,0,0,1,0,0.91,0.15,0.23,0.38,A
+cynthia-tay-6aa276188,Cynthia Tay,https://www.linkedin.com/in/cynthia-tay-6aa276188/,Singapore,1,0.67,0.13,0.5,1,0,1,0,0.9,0.46,0.23,0.68,C
+taykahlok,✪ Tay Kah Lok ✪ 戴嘉樂 AFP®,https://www.linkedin.com/in/taykahlok/,Singapore,1,1,0.18,0,0.5,0,1,1,0.92,0.34,0.48,0.81,C
+liu-bowen-61a85714b,Liu Bowen,https://www.linkedin.com/in/liu-bowen-61a85714b/,Singapore,0,1,0.08,1,1,0,1,0,0.91,0.82,0.23,1.04,S
+annabellegmy,Annabelle Guan GMY,https://www.linkedin.com/in/annabellegmy/,Singapore,1,1,0.43,0,1,0,1,1,0.9,0.49,0.47,0.96,C
+arun-p-48a324147,Arun P.,https://www.linkedin.com/in/arun-p-48a324147/,Singapore,1,0.67,0.3,0.5,1,0,1,1,0.93,0.49,0.48,0.97,E
+see-seng-yang,See Seng Yang,https://www.linkedin.com/in/see-seng-yang/,Singapore,0,1,0.13,1,1,0,0,0,0.88,0.83,0.22,1.05,AMG GT
+lester-lim-773244119,Lester Lim,https://www.linkedin.com/in/lester-lim-773244119/,Singapore,1,1,0.1,0.5,1,0,1,0,0.92,0.52,0.23,0.75,C
+jennifer-wong-kee-heng-60bb8712a,Jennifer Wong Kee Heng,https://www.linkedin.com/in/jennifer-wong-kee-heng-60bb8712a/,Singapore,1,0,0,1,1,0,1,0,0.63,0.4,0.16,0.56,A
+benjamin-ng-502ba1116,Benjamin Ng,https://www.linkedin.com/in/benjamin-ng-502ba1116/,Singapore,1,1,0.15,1,0,0,0,0,0.84,0.43,0.21,0.64,A
+ruichun-zhang-ba4032179,Ruichun Zhang,https://www.linkedin.com/in/ruichun-zhang-ba4032179/,Singapore,0,1,0.03,0.5,1,0,1,0,0.99,0.71,0.25,0.95,S
+tang-ser-wei-980021b8,Tang Ser Wei,https://www.linkedin.com/in/tang-ser-wei-980021b8/,Singapore,0,1,0.08,0.5,1,0,1,0,0.91,0.72,0.23,0.94,A
+kurt-ng-57052593,Kurt Ng,https://www.linkedin.com/in/kurt-ng-57052593/,Singapore,1,0,0.35,1,1,0,1,1,0.88,0.47,0.47,0.94,C
+dunros-ee-925a6b44,Dunros Ee,https://www.linkedin.com/in/dunros-ee-925a6b44/,Singapore,0,1,0.2,0.5,1,0,1,1,0.9,0.74,0.47,1.21,E
+may-hao-tan-b9662182,May Hao Tan,https://www.linkedin.com/in/may-hao-tan-b9662182/,Singapore,1,0.67,0.25,1,1,0,1,1,0.88,0.58,0.47,1.05,E
+andrew-yong-526490b7,Andrew Yong,https://www.linkedin.com/in/andrew-yong-526490b7/,Singapore,1,1,0.1,0.5,1,0,1,0,0.92,0.52,0.23,0.75,S
+yapliyinglegacyoptimizer,Li Ying Yap - Legacy Optimizer,https://www.linkedin.com/in/yapliyinglegacyoptimizer/,Singapore,0,1,0.2,0.5,1,0,1,1,0.91,0.74,0.48,1.22,C
+caleb-heah-beng-keat-28721143,Caleb Heah Beng Keat,https://www.linkedin.com/in/caleb-heah-beng-keat-28721143/,Singapore,1,0.67,0.1,0.5,1,0,1,0,0,0.45,0,0.45,C
+alvin-seah-afc®-02141610a,"Alvin Seah, AFC®",https://www.linkedin.com/in/alvin-seah-afc®-02141610a/,Singapore,1,1,0.33,0,1,0,1,1,0.9,0.47,0.48,0.94,C
+rachelswh,Rachel Seah,https://www.linkedin.com/in/rachelswh/,Singapore,0,0.67,0.05,0.5,1,0,0,0,0,0.64,0,0.64,E
+yuan-shyuan-hoo-32645195,Yuan Shyuan Hoo,https://www.linkedin.com/in/yuan-shyuan-hoo-32645195/,Singapore,1,1,0.13,1,1,0,1,0,0.9,0.63,0.23,0.85,C
+anirudh-dalmia,Anirudh Dalmia,https://www.linkedin.com/in/anirudh-dalmia/,Singapore,1,1,0.05,1,0,0,1,0,0.91,0.41,0.23,0.64,C
+leon-tay-629ab4159,Leon Tay,https://www.linkedin.com/in/leon-tay-629ab4159/,Singapore,1,0,0.05,0.5,1,0,1,0,0,0.31,0,0.31,C
+caleb-yang-14786137,Caleb Yang,https://www.linkedin.com/in/caleb-yang-14786137/,Singapore,1,1,0,0.5,1,0,0,0,0,0.5,0,0.5,S
+alanjjchang,Alan JJ Chang,https://www.linkedin.com/in/alanjjchang/,Singapore,1,1,0.08,1,1,0,1,0,0,0.62,0,0.62,A
+xiuling-yang-87356988,xiuling yang,https://www.linkedin.com/in/xiuling-yang-87356988/,Singapore,1,0.33,0.18,0.5,1,0,1,1,0,0.4,0.25,0.65,C
+noel-ngo-📈-b56891179,Noel Ngo 📈,https://www.linkedin.com/in/noel-ngo-📈-b56891179/,Singapore,1,0.67,0.15,0.5,1,0,1,0,0.91,0.46,0.23,0.69,C
+mandy-phuah-a87ab8a8,Mandy Phuah,https://www.linkedin.com/in/mandy-phuah-a87ab8a8/,Singapore,1,1,0.38,0.5,0,0,1,1,0,0.38,0.25,0.63,E
+desmond-gin-4a83a324,Desmond Gin,https://www.linkedin.com/in/desmond-gin-4a83a324/,Singapore,1,1,0.23,0,1,0,1,1,0.87,0.45,0.47,0.91,C
+eugene-ting-45bab7157,Eugene Ting,https://www.linkedin.com/in/eugene-ting-45bab7157/,Singapore,1,0,0.05,0.5,1,0,1,0,0.89,0.31,0.22,0.53,A
+jocelynngsh,Jocelyn Ng,https://www.linkedin.com/in/jocelynngsh/,Singapore,0,0.67,0.4,0.5,1,0,1,1,0.97,0.71,0.49,1.21,E
+alex-see-878a3492,Alex See,https://www.linkedin.com/in/alex-see-878a3492/,Singapore,0,0.67,0.55,0.5,0,0,1,1,0,0.54,0.25,0.79,E
+jit-wei-koh,Jit Wei Koh,https://www.linkedin.com/in/jit-wei-koh/,Singapore,1,1,0.13,0,1,0,1,0,0.87,0.43,0.22,0.64,C
+benjamin-axa-director,Benjamin Tan - Financial Services Director,https://www.linkedin.com/in/benjamin-axa-director/,Singapore,1,0.67,0.3,0.5,1,0,1,1,0,0.49,0.25,0.74,C
+amandakeyf,Amanda Ong,https://www.linkedin.com/in/amandakeyf/,Singapore,1,1,0.15,0.5,0.5,0,1,0,0,0.43,0,0.43,A
+twledmund,Edmund Tay,https://www.linkedin.com/in/twledmund/,Singapore,1,1,0.23,0,1,0,1,1,0.9,0.45,0.47,0.92,C
+samuelhanjt,✌🏻Samuel Han,https://www.linkedin.com/in/samuelhanjt/,Singapore,0,1,0.08,1,0,0,1,0,0,0.62,0,0.62,C
+adafoo,Ada Foo,https://www.linkedin.com/in/adafoo/,Singapore,1,1,0.18,1,1,0,0,1,0.9,0.64,0.47,1.11,C
+kyra-chua-jia-qi,Chua Jia Qi,https://www.linkedin.com/in/kyra-chua-jia-qi/,Singapore,1,1,0.08,0.5,1,0,1,0,0.9,0.52,0.22,0.74,A
+gigitan03,Gigi Tan,https://www.linkedin.com/in/gigitan03/,Singapore,0,1,0.08,0.5,1,0,1,0,0.99,0.72,0.25,0.96,C
+chang-min-911830159,Chang Min,https://www.linkedin.com/in/chang-min-911830159/,Singapore,0,1,0.03,0.5,0,0,1,0,0.94,0.51,0.23,0.74,A
+jermainetanwensi,Jermaine (Wen Si) Tan,https://www.linkedin.com/in/jermainetanwensi/,Singapore,1,1,0.08,0,1,0,0,0,0.95,0.42,0.24,0.65,E
+michelle-tay-404b95102,Michelle Tay,https://www.linkedin.com/in/michelle-tay-404b95102/,Singapore,1,0.67,0.18,1,1,0,1,1,0.86,0.57,0.46,1.03,E
+jhohan-phua-bb153958,Jhohan Phua,https://www.linkedin.com/in/jhohan-phua-bb153958/,Singapore,1,1,0.13,0.5,1,0,1,0,0.86,0.53,0.21,0.74,E
+jelenasim,沈美铷Jelena Cassandra Sim,https://www.linkedin.com/in/jelenasim/,Singapore,1,1,0.23,1,1,0,1,1,0.89,0.65,0.47,1.12,C
+lisa-quek-aa937b76,Lisa Quek,https://www.linkedin.com/in/lisa-quek-aa937b76/,Singapore,1,1,0.35,0.5,1,0,1,1,0,0.57,0.25,0.82,C
+alvintyx,Alvin Toh,https://www.linkedin.com/in/alvintyx/,Singapore,1,1,0.13,0,1,0,1,0,0,0.43,0,0.43,C
+johnsonhuangrealty,"Johnson, Huang",https://www.linkedin.com/in/johnsonhuangrealty/,Singapore,1,1,0.13,1,0,0,1,0,0.91,0.43,0.23,0.65,A
+thomasquek,Thomas C Q.,https://www.linkedin.com/in/thomasquek/,Singapore,1,1,0.43,1,1,0,1,1,0.87,0.69,0.47,1.15,C
+jason-leong-梁显明-6b5818b9,Jason Leong 梁显明,https://www.linkedin.com/in/jason-leong-梁显明-6b5818b9/,Singapore,1,0.67,0.23,0.5,1,0,1,1,0.88,0.48,0.47,0.95,C
+richa-gupta-07511a4,Sychandra Services Pte Ltd Singapore,https://www.linkedin.com/in/richa-gupta-07511a4/,Singapore,1,1,0.05,1,0.5,0,1,0,0.88,0.51,0.22,0.73,A
+tan-anthony-5786651b,Tan Anthony,https://www.linkedin.com/in/tan-anthony-5786651b/,Singapore,1,0,0.15,1,1,0,1,0,0.92,0.43,0.23,0.66,C
+stephanie-hannah-tan-a22038166,Stephanie Hannah Tan,https://www.linkedin.com/in/stephanie-hannah-tan-a22038166/,Singapore,1,0,0.08,0,1,0,1,0,0.8,0.22,0.2,0.41,A
+lathiff-abdul-689b33,Lathiff Abdul,https://www.linkedin.com/in/lathiff-abdul-689b33/,Singapore,1,0,0.63,1,1,0,1,1,0,0.53,0.25,0.78,E
+jenny-xie-734b3627,Jenny Xie,https://www.linkedin.com/in/jenny-xie-734b3627/,Singapore,1,1,0.2,1,1,0,1,1,0.89,0.64,0.47,1.11,C
+henry-tay-86017437,Henry Tay,https://www.linkedin.com/in/henry-tay-86017437/,Singapore,1,0,0.25,1,1,0,1,1,0.91,0.45,0.48,0.93,C
+syahir-era,Syahir Md Reduan,https://www.linkedin.com/in/syahir-era/,Singapore,1,1,0.15,0.5,1,0,1,0,0,0.53,0,0.53,E
+kyan-tan-13495b122,Kyan Tan,https://www.linkedin.com/in/kyan-tan-13495b122/,Singapore,1,0.67,0.05,0,1,0,1,0,0.9,0.34,0.22,0.57,A
+nicholas-lam-70006a141,Nicholas Lam,https://www.linkedin.com/in/nicholas-lam-70006a141/,Singapore,1,1,0.15,0.5,0,0,0,0,0,0.33,0,0.33,C
+simon-lum-era-209569a4,Simon Lum ERA,https://www.linkedin.com/in/simon-lum-era-209569a4/,Singapore,0,1,0,0.5,1,0,1,0,0.83,0.7,0.21,0.91,E
+alvin-lim-41b17b25,Alvin Lim,https://www.linkedin.com/in/alvin-lim-41b17b25/,Singapore,1,1,0.18,1,1,0,0,1,0.78,0.64,0.44,1.08,C
+jasonqtp,Jason Quek,https://www.linkedin.com/in/jasonqtp/,Singapore,1,0,0,1,1,0,1,0,0.92,0.4,0.23,0.63,A
+clement-cheng-a021b429,Clement Cheng,https://www.linkedin.com/in/clement-cheng-a021b429/,Singapore,1,1,0.13,1,1,0,1,0,0.89,0.63,0.22,0.85,E
+jasellegoh,Jaselle Goh,https://www.linkedin.com/in/jasellegoh/,Singapore,1,0.67,0.08,0,1,0,1,0,0.85,0.35,0.21,0.56,A
+ken-lim-710839178,Ken Lim,https://www.linkedin.com/in/ken-lim-710839178/,Singapore,1,0,0,0,1,0,1,0,0,0.2,0,0.2,B
+jinn-tan-c-h-559bb6167,Jinn Tan C H,https://www.linkedin.com/in/jinn-tan-c-h-559bb6167/,Singapore,0,0.67,0.05,0.5,1,0,1,0,0,0.64,0,0.64,A
+rickneoh,Rick Neoh,https://www.linkedin.com/in/rickneoh/,Singapore,1,0.67,0.18,0.5,1,0,1,1,0,0.47,0.25,0.72,C
+marcusngrj,Marcus Ng,https://www.linkedin.com/in/marcusngrj/,Singapore,0,1,0.1,0.5,1,0,1,0,0.92,0.72,0.23,0.95,E
+thesgrealtor,David Lim,https://www.linkedin.com/in/thesgrealtor/,Singapore,0,0.67,0.25,1,1,0,1,1,0.89,0.78,0.47,1.26,AMG GT
+nurnavi-agent-sejati-015119169,Nurnavi Agent Sejati,https://www.linkedin.com/in/nurnavi-agent-sejati-015119169/,Singapore,0,1,0.1,1,1,0,1,0,0.9,0.82,0.23,1.05,AMG GT
+barry-chan-13620211,Barry Chan,https://www.linkedin.com/in/barry-chan-13620211/,Singapore,1,1,0.28,0.5,1,0,0,1,0.9,0.56,0.48,1.03,S
+shawnnks,Shawn Ng,https://www.linkedin.com/in/shawnnks/,Singapore,1,1,0.3,1,0,0,0,1,0.92,0.46,0.48,0.94,C
+amellda-chen-084534a1,amellda chen,https://www.linkedin.com/in/amellda-chen-084534a1/,Singapore,1,0.67,0.28,1,1,0,0,1,0.88,0.59,0.47,1.06,E
+yen-lun-boo-a435175a,Yen Lun Boo,https://www.linkedin.com/in/yen-lun-boo-a435175a/,Singapore,1,1,0.25,0.5,1,0,0,1,0.89,0.55,0.47,1.02,C
+limdaoqing,Lim Dao Qing (Brian),https://www.linkedin.com/in/limdaoqing/,Singapore,1,1,0.2,1,1,0,1,1,0.88,0.64,0.47,1.11,C
+dato-celestine-kong-6510b2127,Dato' Celestine Kong,https://www.linkedin.com/in/dato-celestine-kong-6510b2127/,Singapore,1,1,0.25,1,1,0,0,1,0.88,0.65,0.47,1.12,C
+hui-juan-tang-5a3854154,Hui Juan Tang,https://www.linkedin.com/in/hui-juan-tang-5a3854154/,Singapore,1,1,0.2,0.5,1,0,0,1,0,0.54,0.25,0.79,C
+phyllis-cl-wong-a2b2935,Phyllis CL Wong,https://www.linkedin.com/in/phyllis-cl-wong-a2b2935/,Singapore,1,1,0.33,1,1,0,0,1,0,0.67,0.25,0.92,C
+mjilgmn,Maelyn Jean Lagman,https://www.linkedin.com/in/mjilgmn/,Singapore,1,1,0.03,0,1,0,1,0,0,0.41,0,0.41,C
+kyla-kee-34505784,Kyla Kee,https://www.linkedin.com/in/kyla-kee-34505784/,Singapore,1,0.67,0.15,1,0,0,0,0,0.89,0.36,0.22,0.59,A
+lmrell,Elliot Lin,https://www.linkedin.com/in/lmrell/,Singapore,1,1,0.3,0,1,0,0,1,0.95,0.46,0.49,0.95,C
+gek-keng-lee-32135511,Gek Keng Lee,https://www.linkedin.com/in/gek-keng-lee-32135511/,Singapore,1,0,0.55,0,1,0,0,1,0.9,0.31,0.48,0.79,C
+wendy-gao-a96a79134,Wendy Gao,https://www.linkedin.com/in/wendy-gao-a96a79134/,Singapore,1,1,0.08,0.5,1,0,0,0,0.88,0.52,0.22,0.74,A
+joycejcsh,Joyce Chan,https://www.linkedin.com/in/joycejcsh/,Singapore,0,1,0.38,1,1,0,1,1,0,0.88,0.25,1.13,AMG GT
+edwiny,Edwin Yip,https://www.linkedin.com/in/edwiny/,Singapore,1,0.67,0.23,0.5,1,0,1,1,0.9,0.48,0.47,0.95,C
+michelle-ong-91a03478,Michelle Ong,https://www.linkedin.com/in/michelle-ong-91a03478/,Singapore,1,1,0.5,0.5,1,0,0,1,0.88,0.6,0.47,1.07,C
+katherine-lim-01660777,Katherine Lim,https://www.linkedin.com/in/katherine-lim-01660777/,Singapore,1,0.67,0.15,1,1,0,1,0,0.89,0.56,0.22,0.79,A
+sheila-k-b9997432,Sheila K,https://www.linkedin.com/in/sheila-k-b9997432/,Singapore,1,0.67,0.2,0.5,1,0,1,1,0.88,0.47,0.47,0.94,C
+tong-shi-hui-3438a2110,Tong Shi Hui,https://www.linkedin.com/in/tong-shi-hui-3438a2110/,Singapore,1,1,0.1,1,1,0,0,0,0,0.62,0,0.62,A
+sharbina-md-ismail-83bb8823,Sharbina MD Ismail,https://www.linkedin.com/in/sharbina-md-ismail-83bb8823/,Singapore,1,1,0.6,0.5,1,0,1,1,0.87,0.62,0.47,1.09,C
+joycelyn-chew-b1b114120,Joycelyn Chew,https://www.linkedin.com/in/joycelyn-chew-b1b114120/,Singapore,1,1,0.23,0,1,0,0,1,0.89,0.45,0.47,0.92,C
+jacksontanera,Jackson Tan,https://www.linkedin.com/in/jacksontanera/,Singapore,0,1,0.18,1,0,0,1,1,0.93,0.64,0.48,1.12,C
+nakayama-yuki-500437a2,Nakayama Yuki,https://www.linkedin.com/in/nakayama-yuki-500437a2/,Singapore,0,0.67,0.25,0.5,1,0,1,1,0,0.68,0.25,0.93,E
+yunita-yew-3a0a4993,Yunita Yew,https://www.linkedin.com/in/yunita-yew-3a0a4993/,Singapore,1,1,0.1,1,0,0,1,0,0.86,0.42,0.22,0.64,A
+kevin-low-a22a6285,Kevin Low,https://www.linkedin.com/in/kevin-low-a22a6285/,Singapore,1,0,0.18,0.5,1,0,1,1,0.98,0.34,0.49,0.83,E
+lee-yeen-13bb2599,Lee Yeen,https://www.linkedin.com/in/lee-yeen-13bb2599/,Singapore,1,1,0.55,0.5,1,0,1,1,0,0.61,0.25,0.86,C
+jimmy-stephen-choo-bbba497,Jimmy Stephen Choo,https://www.linkedin.com/in/jimmy-stephen-choo-bbba497/,Singapore,1,0.67,0.15,1,1,0,1,0,0.91,0.56,0.23,0.79,C
+johnteo,John Teo,https://www.linkedin.com/in/johnteo/,Singapore,1,1,0.15,1,1,0,1,0,0.96,0.63,0.24,0.87,A
+junkangjy,Jun Kang,https://www.linkedin.com/in/junkangjy/,Singapore,1,1,0.43,0,1,0,1,1,0,0.49,0.25,0.74,C
+li-ting-phua-2b994bab,Li Ting Phua,https://www.linkedin.com/in/li-ting-phua-2b994bab/,Singapore,1,1,0.25,0,1,0,1,1,0.92,0.45,0.48,0.93,E
+cassandra-tee-03321aa8,Cassandra Tee,https://www.linkedin.com/in/cassandra-tee-03321aa8/,Singapore,1,0,0.4,0.5,1,0,1,1,0,0.38,0.25,0.63,C
+kenneth-lim-rihao-56824b120,Kenneth Lim Rihao,https://www.linkedin.com/in/kenneth-lim-rihao-56824b120/,Singapore,0,0.67,0.35,1,1,0,1,1,0.92,0.8,0.48,1.28,AMG GT
+beatrice-ng-20a4ba90,Beatrice Ng,https://www.linkedin.com/in/beatrice-ng-20a4ba90/,Singapore,0,1,0.18,1,1,0,1,1,0,0.84,0.25,1.09,AMG GT
+jonathan-fong-shi-hao-69056837,Jonathan Fong Shi Hao,https://www.linkedin.com/in/jonathan-fong-shi-hao-69056837/,Singapore,1,1,0.53,1,1,0,1,1,0.98,0.71,0.49,1.2,E
+irene-zeng-a658b534,Irene Zeng,https://www.linkedin.com/in/irene-zeng-a658b534/,Singapore,1,0.67,0.38,0,1,0,1,1,0.96,0.41,0.49,0.9,C
+joelle-chew-4643a9a,Joelle Chew,https://www.linkedin.com/in/joelle-chew-4643a9a/,Singapore,0,0.67,0.48,1,1,0,1,1,0.92,0.83,0.48,1.31,E
+cecilia-ng-71a8003b,Cecilia Ng,https://www.linkedin.com/in/cecilia-ng-71a8003b/,Singapore,1,0.67,0.23,1,1,0,1,1,0.9,0.58,0.48,1.05,C
+pearlyn-chionh-22b99936,Pearlyn Chionh,https://www.linkedin.com/in/pearlyn-chionh-22b99936/,Singapore,1,1,0.38,1,1,0,1,1,0,0.68,0.25,0.93,E
+johnny-chng-1190352a,Johnny Chng,https://www.linkedin.com/in/johnny-chng-1190352a/,Singapore,1,0,0.2,0.5,1,0,1,1,0.86,0.34,0.46,0.8,C
+eugenekohpk,Eugene Koh,https://www.linkedin.com/in/eugenekohpk/,Singapore,1,1,0.18,0.5,1,0,1,1,0.9,0.54,0.47,1.01,C
+galvinpang,⭐️ Galvin Pang  冯俊国 ⭐️,https://www.linkedin.com/in/galvinpang/,Singapore,1,1,0.23,1,1,0,1,1,0,0.65,0.25,0.9,C
+simon-beh-683324110,Simon Beh,https://www.linkedin.com/in/simon-beh-683324110/,Singapore,1,0,0.48,1,0,0,1,1,0.91,0.3,0.48,0.77,C
+lester-soh-cai-sheng-542181ba,Lester Soh Cai Sheng,https://www.linkedin.com/in/lester-soh-cai-sheng-542181ba/,Singapore,1,0.67,0.15,0.5,1,0,1,0,0.9,0.46,0.22,0.69,A
+rayson-sim-91253005,Rayson Sim,https://www.linkedin.com/in/rayson-sim-91253005/,Singapore,1,0.67,0.3,1,1,0,1,1,0.89,0.59,0.47,1.07,E
+kok-keong-neo-aa85555a,Kok Keong Neo,https://www.linkedin.com/in/kok-keong-neo-aa85555a/,Singapore,1,1,0.18,0.5,1,0,1,1,0,0.54,0.25,0.79,C
+brian-ng-tian-soon-40366b113,Brian Ng Tian Soon,https://www.linkedin.com/in/brian-ng-tian-soon-40366b113/,Singapore,1,1,0.3,1,1,0,1,1,0,0.66,0.25,0.91,C
+kenny-neo-2717b674,Kenny Neo,https://www.linkedin.com/in/kenny-neo-2717b674/,Singapore,1,0.67,0.3,1,1,0,1,1,0.92,0.59,0.48,1.07,C
+janelifeng,Jane Li Feng,https://www.linkedin.com/in/janelifeng/,Singapore,1,1,0.38,0.5,1,0,1,1,0.9,0.58,0.47,1.05,E
+west-lee-7b25956a,West Lee,https://www.linkedin.com/in/west-lee-7b25956a/,Singapore,1,0.67,0.2,0.5,1,0,1,1,0.89,0.47,0.47,0.95,C
+tan-yong-kian-8b72b441,TAN YONG KIAN,https://www.linkedin.com/in/tan-yong-kian-8b72b441/,Singapore,1,1,0.25,1,1,0,1,1,0.93,0.65,0.48,1.13,C
+wynn-koh-75b48215,Wynn Koh,https://www.linkedin.com/in/wynn-koh-75b48215/,Singapore,1,1,0.4,1,1,0,1,1,0.84,0.68,0.46,1.14,C
+christina-lam-7a364b69,Christina Lam,https://www.linkedin.com/in/christina-lam-7a364b69/,Singapore,1,0,0.9,1,1,0,1,1,0.92,0.58,0.48,1.06,C
+jeremy-tan-b62620a7,Jeremy Tan,https://www.linkedin.com/in/jeremy-tan-b62620a7/,Singapore,1,1,0.18,0,1,0,1,1,0,0.44,0.25,0.69,C
+jazreel-lim,Jazreel Lim,https://www.linkedin.com/in/jazreel-lim/,Singapore,0,1,0.1,1,1,0,0,0,0,0.82,0,0.82,S
+dominic-su-049bb21,Dominic Su,https://www.linkedin.com/in/dominic-su-049bb21/,Singapore,1,1,0.05,0,1,0,0,0,0,0.41,0,0.41,C
+fu-xing-ng-36b0277a,Fu Xing Ng,https://www.linkedin.com/in/fu-xing-ng-36b0277a/,Singapore,1,1,0.15,1,1,0,1,0,0,0.63,0,0.63,A
+jeffrey-tang-b6b86241,Jeffrey Tang,https://www.linkedin.com/in/jeffrey-tang-b6b86241/,Singapore,1,1,0.13,0,1,0,0,0,0.86,0.43,0.21,0.64,C
+marisa-ong-69291697,Marisa Ong,https://www.linkedin.com/in/marisa-ong-69291697/,Singapore,1,0.67,0.18,1,1,0,1,1,0.93,0.57,0.48,1.05,S
+priscilla-ong-8a264b146,Priscilla Ong,https://www.linkedin.com/in/priscilla-ong-8a264b146/,Singapore,1,1,0.2,1,1,0,1,1,0.92,0.64,0.48,1.12,E
+shantsing,Shan Tsing,https://www.linkedin.com/in/shantsing/,Singapore,1,1,0.13,0.5,1,0,1,0,0,0.53,0,0.53,A
+shantalle-goh-2667b768,Shantalle Goh,https://www.linkedin.com/in/shantalle-goh-2667b768/,Singapore,1,1,0.3,0.5,1,0,1,1,1,0.56,0.5,1.06,C
+bryan-lee-40500553,Bryan Lee,https://www.linkedin.com/in/bryan-lee-40500553/,Singapore,1,1,0.23,0,1,0,1,1,0.9,0.45,0.47,0.92,C
+celine-goh-242a9015a,Celine Goh,https://www.linkedin.com/in/celine-goh-242a9015a/,Singapore,1,1,0.05,0,0,0,1,0,0,0.21,0,0.21,A
+mandy-gracie-tan-21268236,Mandy Gracie Tan,https://www.linkedin.com/in/mandy-gracie-tan-21268236/,Singapore,0,0.67,0.23,1,1,0,1,1,0.91,0.78,0.48,1.26,C
+patrick-tan-7231b9b8,Patrick Tan,https://www.linkedin.com/in/patrick-tan-7231b9b8/,Singapore,1,1,0.13,1,1,0,1,0,0.88,0.63,0.22,0.85,C
+david-yong-13639231,David Yong,https://www.linkedin.com/in/david-yong-13639231/,Singapore,1,1,0.28,1,1,0,1,1,0.93,0.66,0.48,1.14,C
+joanna-hu-6541321a,Joanna Hu,https://www.linkedin.com/in/joanna-hu-6541321a/,Singapore,0,1,0.15,0.5,1,0,1,0,0.93,0.73,0.23,0.96,A
+kunjing-cai-40a04561,kunjing Cai,https://www.linkedin.com/in/kunjing-cai-40a04561/,Singapore,1,1,0.33,1,1,0,1,1,0.92,0.67,0.48,1.14,C
+ryan-lee-k-k-076a9234,Ryan Lee K K,https://www.linkedin.com/in/ryan-lee-k-k-076a9234/,Singapore,1,1,0.2,1,1,0,1,1,0.94,0.64,0.48,1.12,E
+cindy-lai-73969243,Cindy Lai,https://www.linkedin.com/in/cindy-lai-73969243/,Singapore,1,1,0.63,0.5,1,0,1,1,0,0.63,0.25,0.88,E
+aszri-ahmad-74a65745,Aszri Ahmad,https://www.linkedin.com/in/aszri-ahmad-74a65745/,Singapore,1,0.67,0.15,1,1,0,1,0,0.88,0.56,0.22,0.78,E
+jochensiepmann,Jochen Siepmann,https://www.linkedin.com/in/jochensiepmann/,Singapore,1,1,0.23,1,0.5,0,1,1,0,0.55,0.25,0.8,C
+keith-poh-14049357,Keith Poh,https://www.linkedin.com/in/keith-poh-14049357/,Singapore,1,1,0.28,1,1,0,1,1,0.8,0.66,0.45,1.11,E
+yew-fai-chu-3063612,Yew Fai Chu,https://www.linkedin.com/in/yew-fai-chu-3063612/,Singapore,1,1,0.45,1,1,0,1,1,0.9,0.69,0.47,1.16,E
+sharifah-almaghbouly,Sharifah Almaghbouly,https://www.linkedin.com/in/sharifah-almaghbouly/,Singapore,1,0.33,0.33,0,1,0,1,1,0.93,0.33,0.48,0.81,C
+isabella-teo-69656227,Isabella Teo,https://www.linkedin.com/in/isabella-teo-69656227/,Singapore,1,1,0.45,1,1,0,1,1,0.9,0.69,0.47,1.16,S
+yin-yan-c-a041a9138,Yin Yan (Cevyna) C.,https://www.linkedin.com/in/yin-yan-c-a041a9138/,Singapore,1,1,0.1,0.5,1,0,1,0,0.88,0.52,0.22,0.74,E
+jansen-feng-bba7b233,Jansen Feng,https://www.linkedin.com/in/jansen-feng-bba7b233/,Singapore,1,1,0.15,1,1,0,1,0,0.86,0.63,0.21,0.84,A
+joan-chua-2ba32771,Joan Chua,https://www.linkedin.com/in/joan-chua-2ba32771/,Singapore,1,0,0.2,1,1,0,1,1,0.92,0.44,0.48,0.92,C
+ethan-koh-102b5445,Ethan Koh,https://www.linkedin.com/in/ethan-koh-102b5445/,Singapore,1,1,0.23,0.5,1,0,1,1,0.9,0.55,0.47,1.02,E
+eugeneseancheng,Eugene Cheng,https://www.linkedin.com/in/eugeneseancheng/,Singapore,1,1,0.3,0,1,0,1,1,0.82,0.46,0.46,0.92,C
+ice-catherine-m-4444531a,Ice Catherine M.,https://www.linkedin.com/in/ice-catherine-m-4444531a/,Singapore,1,0.67,0.35,1,1,0,1,1,0.91,0.6,0.48,1.08,E
+nguyenthuha76,Thu Ha Nguyen,https://www.linkedin.com/in/nguyenthuha76/,Singapore,1,1,0.05,0,1,0,1,0,0.85,0.41,0.21,0.62,C
+contactaaron,Aaron Tay,https://www.linkedin.com/in/contactaaron/,Singapore,1,1,0.2,0,1,0,1,1,0.92,0.44,0.48,0.92,E
+raeyee,"Rae Yee, MBA",https://www.linkedin.com/in/raeyee/,Singapore,0,1,0.33,1,1,0,1,1,0.85,0.87,0.46,1.33,AMG GT
+alex-ang-3123841b,Alex Ang,https://www.linkedin.com/in/alex-ang-3123841b/,Singapore,1,1,0.33,1,1,0,1,1,0,0.67,0.25,0.92,C
+chris-yi-hao-ng-5ba6b3a4,Chris Yi Hao Ng,https://www.linkedin.com/in/chris-yi-hao-ng-5ba6b3a4/,Singapore,1,1,0.03,1,1,0,1,0,0.94,0.61,0.24,0.84,E
+michelle-loh,Michelle L.,https://www.linkedin.com/in/michelle-loh/,Singapore,1,1,0.13,1,1,0,1,0,0.93,0.63,0.23,0.86,A
+aaron-ho-29581274,Aaron Ho,https://www.linkedin.com/in/aaron-ho-29581274/,Singapore,1,0,0.23,1,1,0,1,1,0.9,0.45,0.48,0.92,C
+brenda-yip-4192a076,Brenda Yip,https://www.linkedin.com/in/brenda-yip-4192a076/,Singapore,1,1,0.45,1,1,0,1,1,0.92,0.69,0.48,1.17,E
+tang-yun-rou-meagan-b6b58460,Tang Yun Rou (Meagan),https://www.linkedin.com/in/tang-yun-rou-meagan-b6b58460/,Singapore,1,0.67,0.13,0.5,1,0,1,0,0,0.46,0,0.46,C
+brina-lee-sea,Brina Lee,https://www.linkedin.com/in/brina-lee-sea/,Singapore,1,1,0.18,1,1,0,1,1,0.93,0.64,0.48,1.12,C
+liu-april-te-4075359b,Liu April Te,https://www.linkedin.com/in/liu-april-te-4075359b/,Singapore,1,1,0.08,0.5,1,0,1,0,0.88,0.52,0.22,0.74,E
+sandra-ong-a8028559,Sandra Ong,https://www.linkedin.com/in/sandra-ong-a8028559/,Singapore,0,0.67,0.68,1,1,0,1,1,0,0.87,0.25,1.12,S
+adeline-lee,Adeline Lee,https://www.linkedin.com/in/adeline-lee/,Singapore,1,0,0.35,1,1,0,1,1,0.91,0.47,0.48,0.95,C
+kenneth-tan-a6143ab,Kenneth Tan,https://www.linkedin.com/in/kenneth-tan-a6143ab/,Singapore,1,1,0.25,1,1,0,0,1,0.88,0.65,0.47,1.12,C
+amanda-he-9a4835121,AMANDA HE,https://www.linkedin.com/in/amanda-he-9a4835121/,Singapore,1,0,0.18,1,1,0,1,1,0.92,0.44,0.48,0.91,C
+yin-fern-725862gbe,Yin Fern T,https://www.linkedin.com/in/yin-fern-725862gbe/,Singapore,1,0,0.18,0.5,1,0,1,1,0.73,0.34,0.43,0.77,C
+yee-chou-mooi-velle-余秋梅-b67a255b,"Yee Chou Mooi, Velle 余秋梅",https://www.linkedin.com/in/yee-chou-mooi-velle-余秋梅-b67a255b/,Singapore,1,1,0.5,1,1,0,1,1,0.9,0.7,0.48,1.18,E
+chay-ngee-lim-b1624b154,Chay Ngee Lim,https://www.linkedin.com/in/chay-ngee-lim-b1624b154/,Singapore,0,0,0.3,0.5,1,0,1,1,0.89,0.56,0.47,1.03,C
+dias-tan-abb29024,Dias Tan,https://www.linkedin.com/in/dias-tan-abb29024/,Singapore,1,0.67,0.2,0.5,1,0,1,1,0,0.47,0.25,0.72,C
+xavier-aw-3a76aba2,Xavier Aw,https://www.linkedin.com/in/xavier-aw-3a76aba2/,Singapore,0,1,0.05,1,0.5,0,1,0,0,0.71,0,0.71,A
+guanhengloh,Guan-Heng (Ethan) Loh,https://www.linkedin.com/in/guanhengloh/,Singapore,0,1,0.5,1,1,0,1,1,0,0.9,0.25,1.15,AMG GT
+valerie-lauren-lee-李文心-a4b38b56,Valerie Lauren Lee 李文心,https://www.linkedin.com/in/valerie-lauren-lee-李文心-a4b38b56/,Singapore,1,1,0.48,1,1,0,1,1,0,0.7,0.25,0.95,C
+andrew-chua-5b273466,Andrew Chua,https://www.linkedin.com/in/andrew-chua-5b273466/,Singapore,1,0.67,0.23,0.5,1,0,1,1,0.95,0.48,0.49,0.97,C
+ee-yean-property-卢意源-9b292aa,卢意源Ee Yean Property,https://www.linkedin.com/in/ee-yean-property-卢意源-9b292aa/,Singapore,1,0.67,0.45,0.5,1,0,1,1,0.78,0.52,0.44,0.97,C
+irene-lim-254426b5,irene lim,https://www.linkedin.com/in/irene-lim-254426b5/,Singapore,1,0,0.3,0,1,0,1,1,0,0.26,0.25,0.51,C
+chandru-vishindas-a0866915a,Chandru Vishindas,https://www.linkedin.com/in/chandru-vishindas-a0866915a/,Singapore,1,0,0.25,1,1,0,1,1,0,0.45,0.25,0.7,C
+terryksj,Terry K.,https://www.linkedin.com/in/terryksj/,Singapore,0,0.33,0.03,0,1,0,1,0,0.96,0.47,0.24,0.71,A
+lindy-lee-78033838,Lindy Lee,https://www.linkedin.com/in/lindy-lee-78033838/,Singapore,0,0.67,0.35,1,1,0,1,1,0.92,0.8,0.48,1.28,AMG GT
+jimmy-poh-3a0292b,Jimmy Poh,https://www.linkedin.com/in/jimmy-poh-3a0292b/,Singapore,1,1,0.28,1,1,0,1,1,0.83,0.66,0.46,1.11,E
+pamphylia-tay-shea-teng-2b4a39106,Pamphylia Tay Shea Teng,https://www.linkedin.com/in/pamphylia-tay-shea-teng-2b4a39106/,Singapore,1,1,0.1,1,1,0,1,0,0.92,0.62,0.23,0.85,E
+lawrence-yeow-07aa5899,Lawrence Yeow,https://www.linkedin.com/in/lawrence-yeow-07aa5899/,Singapore,1,1,0.13,1,1,0,1,0,0,0.63,0,0.63,A
+suzanne-teh-a92a6391,Suzanne Teh,https://www.linkedin.com/in/suzanne-teh-a92a6391/,Singapore,1,0,0.3,1,1,0,1,1,0.95,0.46,0.49,0.95,C
+binglam,冰Bing,https://www.linkedin.com/in/binglam/,Singapore,1,1,0.38,0.5,0,0,0,1,0.7,0.38,0.42,0.8,C
+spencer-ng-b10353b7,Spencer Ng,https://www.linkedin.com/in/spencer-ng-b10353b7/,Singapore,1,1,0.13,0,1,0,1,0,0,0.43,0,0.43,A
+eddie-tork-530b80143,Eddie Tork,https://www.linkedin.com/in/eddie-tork-530b80143/,Singapore,1,0,0.05,1,1,0,1,0,0.87,0.41,0.22,0.63,C
+weiquanho,Wei Quan Ho,https://www.linkedin.com/in/weiquanho/,Singapore,1,1,0.18,0,1,0,1,1,0.91,0.44,0.48,0.91,C
+jack-lin-52a77334,Jack Lin,https://www.linkedin.com/in/jack-lin-52a77334/,Singapore,1,0.67,0.08,0.5,1,0,1,0,0,0.45,0,0.45,A
+william-oo-b4b71653,William Oo,https://www.linkedin.com/in/william-oo-b4b71653/,Singapore,1,1,0.23,1,1,0,1,1,0.9,0.65,0.48,1.12,E
+jaimie-ho-何洁美）-742989100,Jaimie Ho (何洁美）,https://www.linkedin.com/in/jaimie-ho-何洁美）-742989100/,Singapore,1,1,0.48,1,1,0,1,1,0,0.7,0.25,0.95,E
+say-yong-neo-97873324,Say Yong Neo,https://www.linkedin.com/in/say-yong-neo-97873324/,Singapore,1,0.67,0.15,1,1,0,1,0,0.92,0.56,0.23,0.79,A
+soon-kiat-tan-sk-45049552,Soon Kiat TAN (SK),https://www.linkedin.com/in/soon-kiat-tan-sk-45049552/,Singapore,1,0,0.78,0,1,0,1,1,0,0.36,0.25,0.61,C
+qi-jun-boey-72150626,Qi Jun Boey,https://www.linkedin.com/in/qi-jun-boey-72150626/,Singapore,1,1,0.23,1,1,0,0,1,0.9,0.65,0.48,1.12,E
+propertyshoppes,Alan Chan,https://www.linkedin.com/in/propertyshoppes/,Singapore,1,0,0.4,1,1,0,1,1,0,0.48,0.25,0.73,C
+sohyunglong,Soh Yung Long,https://www.linkedin.com/in/sohyunglong/,Singapore,1,0.67,0.4,0.5,1,0,1,1,0.91,0.51,0.48,0.99,C
+austin-teh-15201156,Austin Teh,https://www.linkedin.com/in/austin-teh-15201156/,Singapore,0,1,0.33,1,1,0,1,1,0,0.87,0.25,1.12,C
+aaronban,Aaron Ban,https://www.linkedin.com/in/aaronban/,Singapore,1,0.67,0.1,1,1,0,1,0,0.9,0.55,0.23,0.78,A
+christinaau,Christina Au,https://www.linkedin.com/in/christinaau/,Singapore,0,0,0.35,1,1,0,1,1,0.93,0.67,0.48,1.15,C
+adelynnlee,Adelynn Lee,https://www.linkedin.com/in/adelynnlee/,Singapore,1,0.67,0.28,1,0,0,1,1,0.72,0.39,0.43,0.82,C
+ken-bong-黄慧锋-03352179,Ken Bong (黄慧锋),https://www.linkedin.com/in/ken-bong-黄慧锋-03352179/,Singapore,1,1,0.15,1,1,0,1,0,0,0.63,0,0.63,A
+peh-peng-boon-ben-918856185,Peh Peng Boon Ben,https://www.linkedin.com/in/peh-peng-boon-ben-918856185/,Singapore,1,1,0.28,1,1,0,0,1,0.92,0.66,0.48,1.13,C
+marcus-seng-10296727,marcus seng,https://www.linkedin.com/in/marcus-seng-10296727/,Singapore,1,1,0.2,1,1,0,1,1,0.93,0.64,0.48,1.12,E
+serene-khng-0896bb194,Serene Khng,https://www.linkedin.com/in/serene-khng-0896bb194/,Singapore,0,1,0.4,0,1,0,1,1,0.91,0.68,0.48,1.16,E
+gu-junjie-1a42aa190,Gu Junjie,https://www.linkedin.com/in/gu-junjie-1a42aa190/,Singapore,1,0,0,0,1,0,1,0,0.95,0.2,0.24,0.44,A
+justin-cher-536b5a107,Justin Cher,https://www.linkedin.com/in/justin-cher-536b5a107/,Singapore,1,0.67,0.5,0,1,0,1,1,0.93,0.43,0.48,0.92,C
+avimlau,Avim Lau,https://www.linkedin.com/in/avimlau/,Singapore,1,0.67,0.38,1,1,0,1,1,0,0.61,0.25,0.86,S
+prameela-rathanan-17577b8a,Prameela Rathanan,https://www.linkedin.com/in/prameela-rathanan-17577b8a/,Singapore,0,1,0.5,1,1,0,1,1,0.82,0.9,0.45,1.35,AMG GT
+richard-quek-1a124516,Richard Quek,https://www.linkedin.com/in/richard-quek-1a124516/,Singapore,0,0.33,0.48,1,1,0,1,1,0.87,0.76,0.47,1.23,S
+eddy-ong-256261,Eddy Ong,https://www.linkedin.com/in/eddy-ong-256261/,Singapore,1,1,0.33,0,1,0,1,1,0.94,0.47,0.48,0.95,C
+jun-rahman-342761141,Jun Rahman,https://www.linkedin.com/in/jun-rahman-342761141/,Singapore,1,1,0.33,0.5,1,0,1,1,0.87,0.57,0.47,1.03,C
+agatha-neo-265144109,Agatha Neo,https://www.linkedin.com/in/agatha-neo-265144109/,Singapore,1,1,0.2,0,1,0,1,1,0.92,0.44,0.48,0.92,C
+florence-lai-908106108,Florence Lai,https://www.linkedin.com/in/florence-lai-908106108/,Singapore,0,1,0.38,0,1,0,1,1,0.92,0.68,0.48,1.16,E
+joanie-tan-34176254,Joanie Tan,https://www.linkedin.com/in/joanie-tan-34176254/,Singapore,1,0.67,0.23,0.5,1,0,1,1,0.86,0.48,0.47,0.94,C
+ong-wicky-jason-a2624953,Ong Wicky Jason,https://www.linkedin.com/in/ong-wicky-jason-a2624953/,Singapore,1,1,0.28,0.5,1,0,1,1,0,0.56,0.25,0.81,E
+evankongsg,Evan Kong,https://www.linkedin.com/in/evankongsg/,Singapore,1,0.67,0.23,0,1,0,1,1,0.87,0.38,0.47,0.85,C
+jgjonathangoh,Jonathan Goh,https://www.linkedin.com/in/jgjonathangoh/,Singapore,1,0.67,0.2,1,1,0,1,1,0,0.57,0.25,0.82,C
+gerinoue,Geri Inoue,https://www.linkedin.com/in/gerinoue/,Singapore,0,0.33,0.18,1,1,0,1,1,0.93,0.7,0.48,1.18,C
+gibmanbk67,Gibman ANG BK,https://www.linkedin.com/in/gibmanbk67/,Singapore,1,1,0.38,0.5,1,0,1,1,0.99,0.58,0.5,1.07,E
+wendy-xie-4401271a,Wendy Xie,https://www.linkedin.com/in/wendy-xie-4401271a/,Singapore,1,0.33,0.3,1,1,0,1,1,0.68,0.53,0.42,0.95,C
+clementjaw,Clement Jaw,https://www.linkedin.com/in/clementjaw/,Singapore,0,0.33,0.65,0,1,0,1,1,0.88,0.6,0.47,1.07,S
+caline-chai-35a18550,Caline CHAI,https://www.linkedin.com/in/caline-chai-35a18550/,Singapore,0,0,0.35,0.5,1,0,1,1,0.82,0.57,0.46,1.03,E
+paulfam,Paul Fam,https://www.linkedin.com/in/paulfam/,Singapore,1,0,0.43,1,1,0,1,1,0.93,0.49,0.48,0.97,C
+leeflyn-lee-1a727967,Leeflyn Lee,https://www.linkedin.com/in/leeflyn-lee-1a727967/,Singapore,0,1,0,1,1,0,1,0,0.92,0.8,0.23,1.03,AMG GT
+pro-realtor-by-allanlee,Allan Lee,https://www.linkedin.com/in/pro-realtor-by-allanlee/,Singapore,1,0,0.23,1,1,0,1,1,0.9,0.45,0.47,0.92,C
+lau-teck-kheng-21a92415b,Lau Teck Kheng,https://www.linkedin.com/in/lau-teck-kheng-21a92415b/,Singapore,1,0.33,0.45,0,1,0,0,1,0.88,0.36,0.47,0.83,C
+sean-ng-9a551a176,Sean Ng,https://www.linkedin.com/in/sean-ng-9a551a176/,Singapore,1,0,0,0.5,1,0,1,0,0.95,0.3,0.24,0.54,C
+gertrude-peter-6b2a2994,gertrude peter,https://www.linkedin.com/in/gertrude-peter-6b2a2994/,Singapore,1,0,0.28,1,1,0,1,1,0,0.46,0.25,0.71,C
+kelvin-chen-92673252,Kelvin Chen,https://www.linkedin.com/in/kelvin-chen-92673252/,Singapore,1,0,0.35,1,1,0,1,1,0.95,0.47,0.49,0.96,C
+irene-ong-ab733522,Irene ONG,https://www.linkedin.com/in/irene-ong-ab733522/,Singapore,1,0,0.15,1,1,0,1,0,0,0.43,0,0.43,C
+terence-lai-特伦斯-32177a134,Terence Lai    特伦斯,https://www.linkedin.com/in/terence-lai-特伦斯-32177a134/,Singapore,1,0.33,0.28,1,1,0,1,1,0.9,0.52,0.47,1,E
+yap-alan-08226b9a,Yap Alan,https://www.linkedin.com/in/yap-alan-08226b9a/,Singapore,1,0.67,0.2,1,1,0,1,1,0.8,0.57,0.45,1.02,C
+mark-foo-193332132,MARK FOO,https://www.linkedin.com/in/mark-foo-193332132/,Singapore,1,1,0.35,0,1,0,1,1,0,0.47,0.25,0.72,C
+lovellachan,Lovella Chan,https://www.linkedin.com/in/lovellachan/,Singapore,1,0.67,0.1,0,1,0,1,0,0,0.35,0,0.35,A
+ks-tan-81825b2a,KS Tan,https://www.linkedin.com/in/ks-tan-81825b2a/,Singapore,0,0.67,0.2,1,1,0,1,1,0.91,0.77,0.48,1.25,E
+melanie-shen-b1544398,Melanie Shen,https://www.linkedin.com/in/melanie-shen-b1544398/,Singapore,0,1,0.13,0.5,1,0,1,0,0.89,0.73,0.22,0.95,E
+shahid-noor-ain-82526a76,Shahid Noor'ain,https://www.linkedin.com/in/shahid-noor-ain-82526a76/,Singapore,0,1,0.15,0.5,1,0,1,0,0,0.73,0,0.73,A
+lily-wu-05a53b149,lily Wu,https://www.linkedin.com/in/lily-wu-05a53b149/,Singapore,0,0.67,0,0,1,0,1,0,0,0.53,0,0.53,A
+james-tan-290a4079,James Tan,https://www.linkedin.com/in/james-tan-290a4079/,Singapore,1,0,0.05,0.5,1,0,1,0,0,0.31,0,0.31,C
+megan-chiew-19b61967,Megan Chiew,https://www.linkedin.com/in/megan-chiew-19b61967/,Singapore,1,0,0.23,1,1,0,1,1,0,0.45,0.25,0.7,E
+kesang-labattu-8b123558,Kesang Labattu,https://www.linkedin.com/in/kesang-labattu-8b123558/,Singapore,1,0,0.1,1,1,0,1,0,0.89,0.42,0.22,0.64,A
+ling-lin-061b11a,LING LIN,https://www.linkedin.com/in/ling-lin-061b11a/,Singapore,1,0,0.33,0.5,1,0,1,1,0.91,0.37,0.48,0.84,C
+jessica-low-man-1a7190173,Jessica Low Man,https://www.linkedin.com/in/jessica-low-man-1a7190173/,Singapore,1,0,0,0.5,1,0,1,0,0.95,0.3,0.24,0.54,C
+kt-tan-331612171,KT Tan,https://www.linkedin.com/in/kt-tan-331612171/,Singapore,1,0,0,0,1,0,1,0,0,0.2,0,0.2,A
+vivian-chong-9a393a14a,Vivian Chong,https://www.linkedin.com/in/vivian-chong-9a393a14a/,Singapore,0,0,0.43,1,1,0,1,1,0,0.69,0.25,0.94,E
+ivy-shua-04aa97149,Ivy Shua,https://www.linkedin.com/in/ivy-shua-04aa97149/,Singapore,1,0,0,1,1,0,1,0,0.93,0.4,0.23,0.63,E
+kenneth-wong-793664131,Kenneth Wong,https://www.linkedin.com/in/kenneth-wong-793664131/,Singapore,1,1,0,0,1,0,1,0,0.94,0.4,0.23,0.63,C
+roger-seat-48b36244,Roger Seat,https://www.linkedin.com/in/roger-seat-48b36244/,Singapore,0,1,0.2,1,1,0,1,1,0.9,0.84,0.48,1.32,C
+tan-matthew-a48a3722,Tan Matthew,https://www.linkedin.com/in/tan-matthew-a48a3722/,Singapore,1,0.67,0.98,0.5,1,0,0,1,0.92,0.63,0.48,1.11,C
+louis-tey-0b1895148,Louis Tey,https://www.linkedin.com/in/louis-tey-0b1895148/,Singapore,1,0,0,1,1,0,0,0,0,0.4,0,0.4,A
+priscillia-lian-48796642,Priscillia Lian,https://www.linkedin.com/in/priscillia-lian-48796642/,Singapore,0,1,0.4,1,1,0,0,1,0,0.88,0.25,1.13,AMG GT
+thila-arudas-101b94161,Thila Arudas,https://www.linkedin.com/in/thila-arudas-101b94161/,Singapore,1,0,0,0.5,1,0,1,0,0,0.3,0,0.3,C
+shirley-chee-71a05624,Shirley Chee,https://www.linkedin.com/in/shirley-chee-71a05624/,Singapore,1,0.67,0.35,1,0,0,1,1,0.9,0.4,0.48,0.88,C
+weiming-tang-7998bb31,Weiming Tang,https://www.linkedin.com/in/weiming-tang-7998bb31/,Singapore,1,1,0.3,1,1,0,1,1,0,0.66,0.25,0.91,C
+kenji-tan-983a31150,Kenji Tan,https://www.linkedin.com/in/kenji-tan-983a31150/,Singapore,1,0,0,0,1,0,1,0,0,0.2,0,0.2,A
+azliza-a-b014b840,azliza A.,https://www.linkedin.com/in/azliza-a-b014b840/,Singapore,0,1,0.08,1,1,0,1,0,0,0.82,0,0.82,AMG GT
+kun-rong-ang-05288259,Kun Rong Ang,https://www.linkedin.com/in/kun-rong-ang-05288259/,Singapore,1,1,0.18,0,1,0,1,1,0.93,0.44,0.48,0.92,C
+chong-ban-long-72039518,Chong Ban Long,https://www.linkedin.com/in/chong-ban-long-72039518/,Singapore,1,0,0.55,1,1,0,1,1,0.89,0.51,0.47,0.98,C
+jenny-lum-b2b0b6114,Jenny Lum,https://www.linkedin.com/in/jenny-lum-b2b0b6114/,Singapore,1,0,0.18,1,1,0,1,1,0,0.44,0.25,0.69,C
+shaun-owyeong-437a14172,Shaun Owyeong,https://www.linkedin.com/in/shaun-owyeong-437a14172/,Singapore,1,0,0.03,0,1,0,1,0,0.96,0.21,0.24,0.44,A
+gina-tng-52132b161,Gina Tng,https://www.linkedin.com/in/gina-tng-52132b161/,Singapore,1,1,0.23,1,1,0,1,1,0.72,0.65,0.43,1.07,C
+sam-loh-430b2450,sam loh,https://www.linkedin.com/in/sam-loh-430b2450/,Singapore,1,0,0.25,1,1,0,1,1,0.92,0.45,0.48,0.93,C
+josephinekhiew,Josephine Khiew,https://www.linkedin.com/in/josephinekhiew/,Singapore,1,0,0.25,1,1,0,1,1,0.92,0.45,0.48,0.93,C
+jason-cai-18953498,Jason Cai,https://www.linkedin.com/in/jason-cai-18953498/,Singapore,1,0,0.13,1,1,0,0,0,0,0.43,0,0.43,C
+leejayden,Jayden Lee,https://www.linkedin.com/in/leejayden/,Singapore,1,1,0.18,0,1,0,1,1,0.87,0.44,0.47,0.9,C
+cassie-lam-16b48a13b,Cassie Lam,https://www.linkedin.com/in/cassie-lam-16b48a13b/,Singapore,1,0,0.08,0,1,0,1,0,0,0.22,0,0.22,B
+evelyn-mulia-09a23b56,Evelyn Mulia,https://www.linkedin.com/in/evelyn-mulia-09a23b56/,Singapore,1,0,0.18,1,1,0,1,1,0,0.44,0.25,0.69,C
+daniel-phua-b8615648,Daniel Phua,https://www.linkedin.com/in/daniel-phua-b8615648/,Singapore,0,0.67,0.23,1,1,0,1,1,0.97,0.78,0.49,1.27,AMG GT
+shi-yu-koh-86a30a177,Shi Yu Koh,https://www.linkedin.com/in/shi-yu-koh-86a30a177/,Singapore,1,0,0.03,0.5,1,0,1,0,0.91,0.31,0.23,0.53,A
+hui-ling-tang-879401160,Hui Ling Tang,https://www.linkedin.com/in/hui-ling-tang-879401160/,Singapore,1,0.67,0.08,0.5,1,0,1,0,0,0.45,0,0.45,C
+josephngtecksoon,Joseph Ng,https://www.linkedin.com/in/josephngtecksoon/,Singapore,1,1,0.1,0,1,0,1,0,0.95,0.42,0.24,0.66,C
+yeow-gim-yg-ng-a56230192,Yeow Gim (YG) Ng,https://www.linkedin.com/in/yeow-gim-yg-ng-a56230192/,Singapore,1,0.67,0.58,1,1,0,1,1,0,0.65,0.25,0.9,E
+terencetan229,Terence Tan,https://www.linkedin.com/in/terencetan229/,Singapore,1,1,0.33,1,1,0,1,1,0,0.67,0.25,0.92,C
+yan-boyan-3a54b0144,Yan Boyan,https://www.linkedin.com/in/yan-boyan-3a54b0144/,Singapore,1,0.67,0.3,1,1,0,1,1,0.91,0.59,0.48,1.07,C
+affan365,'Affan Ashak Hari,https://www.linkedin.com/in/affan365/,Singapore,1,0.67,0.28,1,1,0,0,1,0,0.59,0.25,0.84,C
+andy-khoo,Andy Khoo,https://www.linkedin.com/in/andy-khoo/,Singapore,1,1,0.33,0,1,0,1,1,0,0.47,0.25,0.72,C
+desmine-chua-0b4499148,Desmine Chua,https://www.linkedin.com/in/desmine-chua-0b4499148/,Singapore,1,0.67,0.23,0.5,1,0,1,1,0,0.48,0.25,0.73,C
+donal-kang-0b03b2170,Donal Kang,https://www.linkedin.com/in/donal-kang-0b03b2170/,Singapore,1,0.67,0.1,1,1,0,1,0,0.9,0.55,0.23,0.78,C
+viennleow-311,Leow Vienn,https://www.linkedin.com/in/viennleow-311/,Singapore,1,0,0.48,1,1,0,1,1,0,0.5,0.25,0.75,C
+hanyu-jiang,Hanyu Jiang,https://www.linkedin.com/in/hanyu-jiang/,Singapore,0,1,0.05,1,1,0,1,0,0,0.81,0,0.81,AMG GT
+lucastiong,Lucas Tiong,https://www.linkedin.com/in/lucastiong/,Singapore,0,1,0.08,0.5,0.5,0,1,0,0.92,0.62,0.23,0.84,E
+rebeccatsooyi,Rebecca Tan,https://www.linkedin.com/in/rebeccatsooyi/,Singapore,0,1,0.03,0.5,0,0,1,0,0.83,0.51,0.21,0.71,C
+lim-ernest,Ernest Lim,https://www.linkedin.com/in/lim-ernest/,Singapore,0,1,0.03,0.5,0,0,1,0,0.94,0.51,0.24,0.74,C
+bensonchenjy,Benson Chen,https://www.linkedin.com/in/bensonchenjy/,Singapore,0,1,0.05,0.5,0,0,1,0,0.93,0.51,0.23,0.74,E
+chelsea-woo-834041a6,Chelsea Woo,https://www.linkedin.com/in/chelsea-woo-834041a6/,Singapore,1,1,0.08,0.5,0,0,1,0,0.9,0.32,0.23,0.54,A
+shien-tah-yap-2358a688,Shien Tah Yap,https://www.linkedin.com/in/shien-tah-yap-2358a688/,Singapore,1,1,0.15,0,0.5,0,1,0,0.95,0.33,0.24,0.57,A
+ohningengillian,Gillian Oh Ning En,https://www.linkedin.com/in/ohningengillian/,Singapore,0,1,0.05,0,1,0,1,0,0.94,0.61,0.23,0.84,E
+jeannes-ong-721217159,Jeannes Ong,https://www.linkedin.com/in/jeannes-ong-721217159/,Singapore,1,1,0.15,0,0,0,1,0,0.89,0.23,0.22,0.45,A
+fayewongjf,Faye Wong,https://www.linkedin.com/in/fayewongjf/,Singapore,0,1,0.05,0.5,1,0,1,0,0.87,0.71,0.22,0.93,S
+lydia-tan-75ab826,Lydia Tan,https://www.linkedin.com/in/lydia-tan-75ab826/,Singapore,1,0.67,0.35,1,0.5,0,1,1,0.83,0.5,0.46,0.96,C
+tanhaitat,Tan Hai Tat,https://www.linkedin.com/in/tanhaitat/,Singapore,1,1,0.13,1,0.5,0,1,0,0.78,0.53,0.2,0.72,E
+natasha-you-556835136,Natasha You,https://www.linkedin.com/in/natasha-you-556835136/,Singapore,1,1,0,0.5,1,0,1,0,0,0.5,0,0.5,C
+phyu-zin-htet-b80302118,Phyu Zin Htet,https://www.linkedin.com/in/phyu-zin-htet-b80302118/,Singapore,0,1,0.05,0.5,1,0,1,0,0.85,0.71,0.21,0.92,A
+christine-ann-chew-093520135,Christine Ann Chew,https://www.linkedin.com/in/christine-ann-chew-093520135/,Singapore,0,1,0.08,0,1,0,1,0,0.92,0.62,0.23,0.85,A
+shannon-lee-,Shannon Lee,https://www.linkedin.com/in/shannon-lee-/,Singapore,0,1,0.05,0.5,1,0,1,0,0,0.71,0,0.71,E
+bryan-ljw,Bryan Lee,https://www.linkedin.com/in/bryan-ljw/,Singapore,1,1,0.1,0.5,0,0,1,0,0,0.32,0,0.32,A
+perryteo,Perry Teo,https://www.linkedin.com/in/perryteo/,Singapore,0,1,0.03,0.5,0,0,1,0,0.9,0.51,0.23,0.73,A
+cassandra-ong,Cassandra Ong,https://www.linkedin.com/in/cassandra-ong/,Singapore,1,1,0.1,0.5,0.5,0,1,0,0,0.42,0,0.42,C
+chew-chen-hao,Chew Chen Hao,https://www.linkedin.com/in/chew-chen-hao/,Singapore,1,1,0.05,0,1,0,1,0,0,0.41,0,0.41,C
+madeleine-lim-27335910a,Madeleine Lim,https://www.linkedin.com/in/madeleine-lim-27335910a/,Singapore,0,1,0.1,0.5,0,0,1,0,0.79,0.52,0.2,0.72,A
+bryan-c-2330aa15b,Bryan C.,https://www.linkedin.com/in/bryan-c-2330aa15b/,Singapore,0,1,0.18,0,0,0,1,1,0,0.44,0.25,0.69,C
+hildangoh,Hilda Ngoh,https://www.linkedin.com/in/hildangoh/,Singapore,1,1,0.1,0.5,0,0,1,0,0,0.32,0,0.32,C
+mae-lee-3237615,Mae Lee,https://www.linkedin.com/in/mae-lee-3237615/,Singapore,1,1,0.53,0.5,0,0,1,1,0.96,0.41,0.49,0.9,C
+nareshie,Naresh Vijayakumaran,https://www.linkedin.com/in/nareshie/,Singapore,1,1,0.23,0,0,0,1,1,0,0.25,0.25,0.5,E
+maisarah-ahmad-zohry-56b402138,Maisarah Ahmad Zohry,https://www.linkedin.com/in/maisarah-ahmad-zohry-56b402138/,Singapore,1,1,0.08,0.5,0,0,1,0,0.88,0.32,0.22,0.54,A
+graceteopw,Grace Teo,https://www.linkedin.com/in/graceteopw/,Singapore,1,1,0.28,0.5,0.5,0,1,1,0,0.46,0.25,0.71,C
+coppelltay,"Coppell Tay, Human Resource",https://www.linkedin.com/in/coppelltay/,Singapore,1,1,0.45,1,0,0,1,1,0.91,0.49,0.48,0.97,C
+ler-qi-ang,Ang Ler Qi,https://www.linkedin.com/in/ler-qi-ang/,Singapore,0,1,0.08,0.5,0,0,1,0,0,0.52,0,0.52,E
+befutureready,Mike T.,https://www.linkedin.com/in/befutureready/,Singapore,0,1,0.18,1,1,0,1,1,0,0.84,0.25,1.09,S
+estherler,Esther Ler,https://www.linkedin.com/in/estherler/,Singapore,0,1,0.1,0.5,1,0,1,0,0,0.72,0,0.72,A
+juiee-malekar-726819146,Juiee Malekar,https://www.linkedin.com/in/juiee-malekar-726819146/,Singapore,1,1,0.08,0.5,1,0,1,0,0,0.52,0,0.52,A
+celine-chin,Celine Chin,https://www.linkedin.com/in/celine-chin/,Singapore,0,1,0.03,1,0.5,0,1,0,0.96,0.71,0.24,0.94,A
+pauline-chua-b0342710a,Pauline Chua,https://www.linkedin.com/in/pauline-chua-b0342710a/,Singapore,1,1,0.1,0.5,0,0,1,0,0,0.32,0,0.32,C
+chuon-yan-ong-b3752083,Chuon Yan Ong,https://www.linkedin.com/in/chuon-yan-ong-b3752083/,Singapore,1,1,0.1,1,1,0,1,0,0,0.62,0,0.62,S
+farahinmariah,Farahin Mariah,https://www.linkedin.com/in/farahinmariah/,Singapore,0,1,0.1,0,0,0,1,0,0.9,0.42,0.22,0.64,A
+chong-jun-yi-44b41a12a,Chong Jun Yi,https://www.linkedin.com/in/chong-jun-yi-44b41a12a/,Singapore,1,0.67,0.08,0,1,0,1,0,0,0.35,0,0.35,C
+zora-chooi,Zora Chooi,https://www.linkedin.com/in/zora-chooi/,Singapore,1,1,0.05,0.5,1,0,1,0,0.92,0.51,0.23,0.74,E
+veenaang-yuyan,Veena Ang,https://www.linkedin.com/in/veenaang-yuyan/,Singapore,0,1,0.1,0.5,0,0,1,0,0.95,0.52,0.24,0.76,E
+ryanleokaien,Ryan Leo Kai En,https://www.linkedin.com/in/ryanleokaien/,Singapore,1,0.67,0.08,0.5,1,0,1,0,0.93,0.45,0.23,0.68,C
+emily-luiql,Emily Lui,https://www.linkedin.com/in/emily-luiql/,Singapore,0,1,0.03,0.5,0,0,1,0,0.94,0.51,0.24,0.74,E
+lauren-lai-jia-shan,Lauren Lai,https://www.linkedin.com/in/lauren-lai-jia-shan/,Singapore,0,0.67,0.08,0,1,0,1,0,0.87,0.55,0.22,0.77,E
+lgengjie,Geng Jie L.,https://www.linkedin.com/in/lgengjie/,Singapore,0,1,0.05,0,0,0,1,0,0.99,0.41,0.25,0.66,C
+jakecy,Jake Chen,https://www.linkedin.com/in/jakecy/,Singapore,1,1,0.3,0,0.5,0,1,1,0.92,0.36,0.48,0.84,C
+james-tong-b49b17185,James Tong,https://www.linkedin.com/in/james-tong-b49b17185/,Singapore,1,0,0.13,0,1,0,1,0,0.97,0.23,0.24,0.47,A
+jackson-ong-1a5231115,Jackson Ong,https://www.linkedin.com/in/jackson-ong-1a5231115/,Singapore,1,1,0.2,0,0.5,0,1,1,0.88,0.34,0.47,0.81,C
+edmund-teo-4bba49a5,Edmund Teo,https://www.linkedin.com/in/edmund-teo-4bba49a5/,Singapore,1,1,0.13,0,0,0,1,0,0.98,0.23,0.24,0.47,B
+abigail-cheong-6108a811a,Abigail Cheong,https://www.linkedin.com/in/abigail-cheong-6108a811a/,Singapore,0,1,0.08,0.5,0.5,0,1,0,0.89,0.62,0.22,0.84,A
+mitchellglendontan,Mitchell Tan,https://www.linkedin.com/in/mitchellglendontan/,Singapore,0,1,0.05,0,0,0,1,0,0.94,0.41,0.24,0.65,E
+yeeshanchua,Yee Shan Chua,https://www.linkedin.com/in/yeeshanchua/,Singapore,0,1,0,0,0,0,1,0,0,0.4,0,0.4,C
+batrisyiahasshim,Batrisyia Hasshim,https://www.linkedin.com/in/batrisyiahasshim/,Singapore,1,1,0.13,0,0,0,1,0,0.84,0.23,0.21,0.44,A
+vanessagohh,Vanessa Goh,https://www.linkedin.com/in/vanessagohh/,Singapore,0,1,0,0,0,0,1,0,0.85,0.4,0.21,0.61,E
+yun-xin-lee-9b497a109,Yun Xin Lee,https://www.linkedin.com/in/yun-xin-lee-9b497a109/,Singapore,0,1,0.15,0.5,1,0,1,0,0.91,0.73,0.23,0.96,E
+aangeliaateo,Angelia Teo,https://www.linkedin.com/in/aangeliaateo/,Singapore,0,1,0.05,0,0,0,1,0,0.84,0.41,0.21,0.62,C
+jolene-chiang-031119138,Jolene Chiang,https://www.linkedin.com/in/jolene-chiang-031119138/,Singapore,1,0.67,0.08,0.5,0,0,1,0,0.91,0.25,0.23,0.48,C
+suzanne-gu-100b7219,Suzanne Gu,https://www.linkedin.com/in/suzanne-gu-100b7219/,Singapore,1,0,0.23,0.5,0,0,1,1,0.94,0.15,0.48,0.63,A
+ang-en-ming,Ang En Ming,https://www.linkedin.com/in/ang-en-ming/,Singapore,1,1,0.1,0.5,1,0,1,0,0.87,0.52,0.22,0.74,E
+leonguok,Leon Guok,https://www.linkedin.com/in/leonguok/,Singapore,1,1,0.15,0.5,0.5,0,1,0,0.92,0.43,0.23,0.66,C
+angelatan-11,Angela Tan,https://www.linkedin.com/in/angelatan-11/,Singapore,1,0,0.1,0.5,0,0,1,0,0.92,0.12,0.23,0.35,A
+lee-jia-qi-263325126,Lee Jia Qi,https://www.linkedin.com/in/lee-jia-qi-263325126/,Singapore,0,1,0.08,0,0,0,1,0,0.9,0.42,0.22,0.64,E
+chiahuimian,Hui Mian Chia,https://www.linkedin.com/in/chiahuimian/,Singapore,1,1,0.28,1,1,0,1,1,0.92,0.66,0.48,1.13,C
+ongliyan,Ong Li Yan,https://www.linkedin.com/in/ongliyan/,Singapore,0,1,0.1,1,0,0,1,0,0.99,0.62,0.25,0.87,C
+lynnongxy,Lynn Ong Xin Yi,https://www.linkedin.com/in/lynnongxy/,Singapore,0,1,0.13,0,0.5,0,1,0,0.93,0.53,0.23,0.76,E
+ngqiyin,Qi Yin NG,https://www.linkedin.com/in/ngqiyin/,Singapore,1,1,0.1,0.5,0,0,1,0,0.93,0.32,0.23,0.55,C
+shona-heng-63197b15a,Shona Heng,https://www.linkedin.com/in/shona-heng-63197b15a/,Singapore,1,1,0.13,0,1,0,1,0,0.92,0.43,0.23,0.65,A
+jonathan-yong-b4852980,Jonathan Yong,https://www.linkedin.com/in/jonathan-yong-b4852980/,Singapore,1,1,0.1,0,1,0,1,0,0.98,0.42,0.24,0.66,A
+ming-li-liew-873669132,Ming Li Liew,https://www.linkedin.com/in/ming-li-liew-873669132/,Singapore,0,1,0.08,0,1,0,1,0,0.91,0.62,0.23,0.84,A
+valerie-vong-070999158,Valerie Vong,https://www.linkedin.com/in/valerie-vong-070999158/,Singapore,1,1,0.1,0,0,0,1,0,0,0.22,0,0.22,A
+kimberleyneo,Kimberley Neo,https://www.linkedin.com/in/kimberleyneo/,Singapore,1,1,0.1,0,0,0,1,0,0,0.22,0,0.22,A
+gareth-ting-800a16150,Gareth Ting,https://www.linkedin.com/in/gareth-ting-800a16150/,Singapore,0,1,0.03,0.5,0,0,1,0,0,0.51,0,0.51,C
+jolene-teng-wen-jia,Jolene Teng Wen Jia,https://www.linkedin.com/in/jolene-teng-wen-jia/,Singapore,1,1,0.08,0.5,0,0,1,0,0.92,0.32,0.23,0.55,C
+glenda-teo-43142b136,Glenda Teo,https://www.linkedin.com/in/glenda-teo-43142b136/,Singapore,1,1,0.13,0.5,0,0,1,0,0.87,0.33,0.22,0.54,C
+taysokfong,Sok Fong Tay,https://www.linkedin.com/in/taysokfong/,Singapore,1,1,0.05,0.5,1,0,1,0,0.95,0.51,0.24,0.75,C
+soon-jia-le-773738138,Soon Jia Le,https://www.linkedin.com/in/soon-jia-le-773738138/,Singapore,0,1,0.15,0,1,0,1,0,0.87,0.63,0.22,0.85,A
+lauraanlow,Lauraan Low,https://www.linkedin.com/in/lauraanlow/,Singapore,0,1,0.08,0,0,0,1,0,0.95,0.42,0.24,0.65,A
+jamielxe,Jamie Loo,https://www.linkedin.com/in/jamielxe/,Singapore,1,1,0.1,0.5,0,0,1,0,0.88,0.32,0.22,0.54,E
+huiqifwu,Hui Qi Fwu,https://www.linkedin.com/in/huiqifwu/,Singapore,0,1,0.05,0.5,0,0,1,0,0.83,0.51,0.21,0.72,C
+mukthar-ahamad,Mukthar Ahamad,https://www.linkedin.com/in/mukthar-ahamad/,Singapore,1,1,0,0,1,0,1,0,0.92,0.4,0.23,0.63,A
+kessiebeh,Kessie Beh,https://www.linkedin.com/in/kessiebeh/,Singapore,0,1,0.08,0.5,0,0,1,0,0.94,0.52,0.23,0.75,C
+sia-huiling-34b56738,Sia HuiLing,https://www.linkedin.com/in/sia-huiling-34b56738/,Singapore,0,1,0.05,1,0,0,1,0,0.94,0.61,0.24,0.85,E
+nathaniel-liew,Nathaniel Liew,https://www.linkedin.com/in/nathaniel-liew/,Singapore,1,1,0.13,0,0,0,1,0,0.91,0.23,0.23,0.45,A
+brendanlee-myprofile,Brendan Lee,https://www.linkedin.com/in/brendanlee-myprofile/,Singapore,1,0.33,0.15,0,1,0,1,0,0.93,0.3,0.23,0.53,C
+jobelle-ng-fsk,Jobelle Ng,https://www.linkedin.com/in/jobelle-ng-fsk/,Singapore,1,0,0.1,0,0.5,0,1,0,0.89,0.12,0.22,0.34,A
+ohylauren,Lauren Ong,https://www.linkedin.com/in/ohylauren/,Singapore,1,1,0.13,0.5,0,0,1,0,0.92,0.33,0.23,0.55,A
+val-liang-a17103a4,Val Liang,https://www.linkedin.com/in/val-liang-a17103a4/,Singapore,1,0.67,0.08,0,0.5,0,1,0,0.9,0.25,0.22,0.47,C
+calista-ng,Calista Ng,https://www.linkedin.com/in/calista-ng/,Singapore,0,0.67,0.15,0,0,0,1,0,0.91,0.36,0.23,0.59,C
+elizabeth-han-hui-qi,Elizabeth Han (Han Hui Qi),https://www.linkedin.com/in/elizabeth-han-hui-qi/,Singapore,1,1,0.03,0.5,0.5,0,1,0,0.9,0.41,0.22,0.63,C
+yifeng-cai-465b49bb,Yifeng Cai,https://www.linkedin.com/in/yifeng-cai-465b49bb/,Singapore,1,1,0.1,0.5,1,0,1,0,0.92,0.52,0.23,0.75,A
+aalvin,Alvin Ang,https://www.linkedin.com/in/aalvin/,Singapore,1,1,0.33,1,0,0,1,1,0.96,0.47,0.49,0.95,C
+lancengym,Lance Ng,https://www.linkedin.com/in/lancengym/,Singapore,1,1,0.25,0.5,0.5,0,1,1,0.94,0.45,0.49,0.94,C
+sarah-ong-1037b220,Sarah Ong,https://www.linkedin.com/in/sarah-ong-1037b220/,Singapore,1,1,0.35,0.5,0,0,1,1,0.89,0.37,0.47,0.84,E
+siew-may-yeo,Siew May Yeo,https://www.linkedin.com/in/siew-may-yeo/,Singapore,1,1,0.2,0.5,1,0,1,1,0.87,0.54,0.47,1.01,E
+nglixuan98,Ng Li Xuan,https://www.linkedin.com/in/nglixuan98/,Singapore,0,1,0.05,0.5,0.5,0,1,0,0.91,0.61,0.23,0.84,A
+ming-wei-ho-8705a814a,Ming Wei Ho,https://www.linkedin.com/in/ming-wei-ho-8705a814a/,Singapore,0,1,0.08,0.5,0,0,1,0,0.85,0.52,0.21,0.73,A
